@@ -1274,3 +1274,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 51,23,2026-10-24T23:01:40Z,A contract signed on 21 June 2026 has a 216-day settlement period. On what date does it settle?,16 January 2027,22 February 2027,23 January 2027,24 January 2027
 51,24,2026-10-24T23:01:40Z,Quarterly revenue moved from $650.00 to $848.00. What is the percentage change?,130.5%,30.5%,-30.5%,23.3%
 51,25,2026-10-24T23:01:40Z,A retailer sells 639 units at $47.09 each. What is total revenue?,"$30,561.41","$30,090.51","$30,729.51","$29,619.61"
+52,1,2026-10-25T00:01:38Z,"A product line generates $42,500.00 in revenue against $25,560.15 in cost of goods sold. What is the gross margin?",66.3%,24.9%,39.9%,60.1%
+52,2,2026-10-25T00:01:38Z,A contract signed on 8 August 2026 has a 137-day settlement period. On what date does it settle?,24 December 2026,23 December 2026,16 December 2026,22 January 2027
+52,3,2026-10-25T00:01:38Z,"An invoice for $7,806.50 is converted to euros at 1.3465 euros per US dollar. How many euros is that?","10,511.45","9,730.80","5,797.62","11,292.10"
+52,4,2026-10-25T00:01:38Z,"An investment of $5,000.00 grows at 12% compounded annually. What is its value after 7 years?","$9,869.11","$9,200.00","$4,200.00","$11,053.41"
+52,5,2026-10-25T00:01:38Z,"A product line generates $12,500.00 in revenue against $7,372.28 in cost of goods sold. What is the gross margin?",59.0%,69.6%,41.0%,25.8%
+52,6,2026-10-25T00:01:38Z,"An investment of $33,000.00 grows at 15% compounded annually. What is its value after 5 years?","$57,750.00","$24,750.00","$66,374.79","$57,717.21"
+52,7,2026-10-25T00:01:38Z,"A product line generates $19,750.00 in revenue against $10,763.67 in cost of goods sold. What is the gross margin?",83.5%,45.5%,29.5%,54.5%
+52,8,2026-10-25T00:01:38Z,"An investment of $43,500.00 grows at 2% compounded annually. What is its value after 6 years?","$48,720.00","$48,027.51","$48,988.07","$5,220.00"
+52,9,2026-10-25T00:01:38Z,Region A had 114 orders averaging $68.00; region B had 147 orders averaging $55.00. What is the overall average order value?,60.68,107.73,61.50,62.32
+52,10,2026-10-25T00:01:38Z,"An invoice for $8,025.04 is converted to euros at 1.0858 euros per US dollar. How many euros is that?","9,516.09","8,713.59","7,911.08","7,390.90"
+52,11,2026-10-25T00:01:38Z,"A product line generates $42,250.00 in revenue against $36,054.32 in cost of goods sold. What is the gross margin?",7.9%,14.7%,17.2%,85.3%
+52,12,2026-10-25T00:01:38Z,"A support queue holds 13 billing tickets, 11 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",37.9%,81.2%,44.8%,82.8%
+52,13,2026-10-25T00:01:38Z,"A product line generates $83,500.00 in revenue against $47,210.81 in cost of goods sold. What is the gross margin?",56.5%,43.5%,76.9%,27.8%
+52,14,2026-10-25T00:01:38Z,"An investment of $12,000.00 grows at 9% compounded annually. What is its value after 3 years?","$14,257.20","$3,240.00","$15,540.35","$15,240.00"
+52,15,2026-10-25T00:01:38Z,"A $8,040.00 marketing budget is split between two channels in the ratio 2:6. What does the first channel receive?","$2,680.00","$2,010.00","$6,030.00","$1,005.00"
+52,16,2026-10-25T00:01:38Z,Region A had 27 orders averaging $37.00; region B had 169 orders averaging $52.00. What is the overall average order value?,44.50,57.91,39.07,49.93
+52,17,2026-10-25T00:01:38Z,"Quarterly revenue moved from $1,000.00 to $621.00. What is the percentage change?",62.1%,-61.0%,37.9%,-37.9%
+52,18,2026-10-25T00:01:38Z,"A product line generates $54,000.00 in revenue against $47,699.70 in cost of goods sold. What is the gross margin?",13.2%,88.3%,6.2%,11.7%
+52,19,2026-10-25T00:01:38Z,"An investment of $37,000.00 grows at 3% compounded annually. What is its value after 7 years?","$44,179.93","$7,770.00","$44,770.00","$45,505.33"
+52,20,2026-10-25T00:01:38Z,"An investment of $48,000.00 grows at 6% compounded annually. What is its value after 4 years?","$57,168.77","$60,598.89","$11,520.00","$59,520.00"
+52,21,2026-10-25T00:01:38Z,"A $7,980.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$1,596.00","$4,788.00","$11,970.00","$3,192.00"
+52,22,2026-10-25T00:01:38Z,"An investment of $5,500.00 grows at 10% compounded annually. What is its value after 2 years?","$6,600.00","$6,050.00","$6,655.00","$1,100.00"
+52,23,2026-10-25T00:01:38Z,An item listed at $247.76 is discounted by 5%. What is the sale price?,$235.37,$12.39,$260.15,$242.76
+52,24,2026-10-25T00:01:38Z,"An investment of $21,000.00 grows at 7% compounded annually. What is its value after 5 years?","$27,526.72","$28,350.00","$29,453.59","$7,350.00"
+52,25,2026-10-25T00:01:38Z,An item listed at $632.13 is discounted by 25%. What is the sale price?,$158.03,$790.16,$607.13,$474.10
