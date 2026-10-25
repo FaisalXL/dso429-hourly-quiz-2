@@ -1774,3 +1774,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 71,23,2026-10-25T19:01:42Z,"Quarterly revenue moved from $4,650.00 to $5,544.00. What is the percentage change?",16.1%,-19.2%,19.2%,119.2%
 71,24,2026-10-25T19:01:42Z,"A $7,410.00 marketing budget is split between two channels in the ratio 2:4. What does the first channel receive?","$2,470.00","$1,235.00","$3,705.00","$4,940.00"
 71,25,2026-10-25T19:01:42Z,Region A had 127 orders averaging $67.00; region B had 191 orders averaging $87.00. What is the overall average order value?,131.55,74.99,77.00,79.01
+72,1,2026-10-25T20:01:38Z,A contract signed on 22 August 2026 has a 278-day settlement period. On what date does it settle?,26 June 2027,20 May 2027,28 May 2027,27 May 2027
+72,2,2026-10-25T20:01:38Z,"An invoice for $5,173.79 is converted to euros at 0.6082 euros per US dollar. How many euros is that?","2,629.32","3,664.08","8,506.72","3,146.70"
+72,3,2026-10-25T20:01:38Z,"An investment of $33,000.00 grows at 4% compounded annually. What is its value after 8 years?","$43,560.00","$10,560.00","$43,425.75","$45,162.78"
+72,4,2026-10-25T20:01:38Z,"Fixed costs are $24,500.00. Each unit sells for $124.00 with a variable cost of $52.00. How many units must be sold to break even, to the nearest unit?",198 units,340 units,139 units,471 units
+72,5,2026-10-25T20:01:38Z,A contract signed on 29 May 2026 has a 163-day settlement period. On what date does it settle?,8 November 2026,8 December 2026,1 November 2026,9 November 2026
+72,6,2026-10-25T20:01:38Z,"Quarterly revenue moved from $3,800.00 to $2,448.00. What is the percentage change?",35.6%,-35.6%,-55.2%,64.4%
+72,7,2026-10-25T20:01:38Z,"Quarterly revenue moved from $2,150.00 to $2,801.00. What is the percentage change?",23.2%,-30.3%,30.3%,130.3%
+72,8,2026-10-25T20:01:38Z,"An investment of $8,500.00 grows at 3% compounded annually. What is its value after 7 years?","$1,785.00","$10,149.44","$10,285.00","$10,453.93"
+72,9,2026-10-25T20:01:38Z,An item listed at $95.19 is discounted by 15%. What is the sale price?,$14.28,$109.47,$80.19,$80.91
+72,10,2026-10-25T20:01:38Z,"A product line generates $60,250.00 in revenue against $43,181.91 in cost of goods sold. What is the gross margin?",39.5%,28.3%,71.7%,16.5%
+72,11,2026-10-25T20:01:38Z,"Fixed costs are $13,000.00. Each unit sells for $46.00 with a variable cost of $18.00. How many units must be sold to break even, to the nearest unit?",203 units,464 units,283 units,722 units
+72,12,2026-10-25T20:01:38Z,Region A had 181 orders averaging $63.00; region B had 137 orders averaging $34.00. What is the overall average order value?,50.51,46.49,48.50,88.73
+72,13,2026-10-25T20:01:38Z,"A product line generates $80,000.00 in revenue against $55,704.41 in cost of goods sold. What is the gross margin?",69.6%,17.9%,43.6%,30.4%
+72,14,2026-10-25T20:01:38Z,"An investment of $49,000.00 grows at 9% compounded annually. What is its value after 4 years?","$69,167.50","$63,456.42","$17,640.00","$66,640.00"
+72,15,2026-10-25T20:01:38Z,"An invoice for $6,119.22 is converted to euros at 1.5127 euros per US dollar. How many euros is that?","9,868.47","9,256.54","4,045.23","8,644.62"
+72,16,2026-10-25T20:01:38Z,"Fixed costs are $22,000.00. Each unit sells for $107.00 with a variable cost of $72.00. How many units must be sold to break even, to the nearest unit?",123 units,629 units,306 units,206 units
+72,17,2026-10-25T20:01:38Z,"An investment of $9,000.00 grows at 10% compounded annually. What is its value after 7 years?","$15,944.05","$15,300.00","$17,538.45","$6,300.00"
+72,18,2026-10-25T20:01:38Z,"An invoice for $4,105.30 is converted to euros at 0.9750 euros per US dollar. How many euros is that?","4,210.56","3,592.14","4,413.20","4,002.67"
+72,19,2026-10-25T20:01:38Z,A $930.00 marketing budget is split between two channels in the ratio 3:6. What does the first channel receive?,$103.33,$620.00,$465.00,$310.00
+72,20,2026-10-25T20:01:38Z,"A product line generates $82,000.00 in revenue against $62,849.41 in cost of goods sold. What is the gross margin?",30.5%,76.6%,23.4%,13.2%
+72,21,2026-10-25T20:01:38Z,"A product line generates $61,000.00 in revenue against $36,739.11 in cost of goods sold. What is the gross margin?",24.8%,66.0%,39.8%,60.2%
+72,22,2026-10-25T20:01:38Z,"Fixed costs are $52,000.00. Each unit sells for $183.00 with a variable cost of $108.00. How many units must be sold to break even, to the nearest unit?",693 units,481 units,284 units,179 units
+72,23,2026-10-25T20:01:38Z,"A $7,230.00 marketing budget is split between two channels in the ratio 4:2. What does the first channel receive?","$4,820.00","$2,410.00","$1,205.00","$14,460.00"
+72,24,2026-10-25T20:01:38Z,An item listed at $186.74 is discounted by 40%. What is the sale price?,$74.70,$112.04,$146.74,$261.44
+72,25,2026-10-25T20:01:38Z,"An investment of $13,000.00 grows at 10% compounded annually. What is its value after 6 years?","$23,030.29","$20,800.00","$7,800.00","$20,936.63"
