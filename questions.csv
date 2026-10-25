@@ -1449,3 +1449,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 58,23,2026-10-25T06:03:19Z,"Fixed costs are $9,000.00. Each unit sells for $51.00 with a variable cost of $20.00. How many units must be sold to break even, to the nearest unit?",176 units,290 units,450 units,127 units
 58,24,2026-10-25T06:03:19Z,"An invoice for $3,215.54 is converted to euros at 1.1662 euros per US dollar. How many euros is that?","4,071.52","2,757.28","3,749.96","3,428.41"
 58,25,2026-10-25T06:03:19Z,A retailer sells 782 units at $51.91 each. What is total revenue?,"$40,593.62","$41,375.62","$41,112.72","$40,074.52"
+59,1,2026-10-25T07:01:39Z,"An invoice for $8,994.10 is converted to euros at 1.5406 euros per US dollar. How many euros is that?","5,838.05","13,856.31","12,956.90","14,755.72"
+59,2,2026-10-25T07:01:39Z,Region A had 147 orders averaging $54.00; region B had 155 orders averaging $67.00. What is the overall average order value?,118.21,60.50,60.67,60.33
+59,3,2026-10-25T07:01:39Z,"Quarterly revenue moved from $3,350.00 to $4,171.00. What is the percentage change?",-24.5%,19.7%,24.5%,124.5%
+59,4,2026-10-25T07:01:39Z,"Fixed costs are $14,000.00. Each unit sells for $114.00 with a variable cost of $27.00. How many units must be sold to break even, to the nearest unit?",519 units,123 units,99 units,161 units
+59,5,2026-10-25T07:01:39Z,"A support queue holds 23 billing tickets, 17 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",82.1%,45.1%,78.4%,33.3%
+59,6,2026-10-25T07:01:39Z,"An investment of $40,500.00 grows at 9% compounded annually. What is its value after 3 years?","$10,935.00","$51,435.00","$52,448.67","$48,118.05"
+59,7,2026-10-25T07:01:39Z,"Quarterly revenue moved from $1,700.00 to $899.00. What is the percentage change?",47.1%,-47.1%,-89.1%,52.9%
+59,8,2026-10-25T07:01:39Z,A contract signed on 26 November 2026 has a 27-day settlement period. On what date does it settle?,24 December 2026,22 January 2027,23 December 2026,16 December 2026
+59,9,2026-10-25T07:01:39Z,"Quarterly revenue moved from $1,450.00 to $1,040.00. What is the percentage change?",-28.3%,-39.4%,71.7%,28.3%
+59,10,2026-10-25T07:01:39Z,An item listed at $312.80 is discounted by 35%. What is the sale price?,$277.80,$203.32,$109.48,$422.28
+59,11,2026-10-25T07:01:39Z,A contract signed on 23 October 2026 has a 229-day settlement period. On what date does it settle?,9 July 2027,2 June 2027,10 June 2027,9 June 2027
+59,12,2026-10-25T07:01:39Z,"An invoice for $3,665.30 is converted to euros at 1.7174 euros per US dollar. How many euros is that?","5,928.26","6,294.79","6,661.32","2,134.21"
+59,13,2026-10-25T07:01:39Z,"An investment of $43,500.00 grows at 11% compounded annually. What is its value after 4 years?","$62,640.00","$59,491.95","$19,140.00","$66,036.06"
+59,14,2026-10-25T07:01:39Z,An item listed at $402.80 is discounted by 5%. What is the sale price?,$397.80,$20.14,$382.66,$422.94
+59,15,2026-10-25T07:01:39Z,"Fixed costs are $19,000.00. Each unit sells for $191.00 with a variable cost of $155.00. How many units must be sold to break even, to the nearest unit?",55 units,123 units,528 units,99 units
+59,16,2026-10-25T07:01:39Z,An item listed at $473.53 is discounted by 30%. What is the sale price?,$443.53,$615.59,$142.06,$331.47
+59,17,2026-10-25T07:01:39Z,A contract signed on 7 March 2026 has a 114-day settlement period. On what date does it settle?,29 June 2026,22 June 2026,30 June 2026,29 July 2026
+59,18,2026-10-25T07:01:39Z,A retailer sells 923 units at $24.81 each. What is total revenue?,"$22,651.53","$23,147.73","$23,822.63","$22,899.63"
+59,19,2026-10-25T07:01:39Z,"An investment of $44,000.00 grows at 4% compounded annually. What is its value after 5 years?","$51,473.78","$52,800.00","$53,532.73","$8,800.00"
+59,20,2026-10-25T07:01:39Z,Region A had 93 orders averaging $68.00; region B had 23 orders averaging $33.00. What is the overall average order value?,61.06,50.50,39.94,76.16
+59,21,2026-10-25T07:01:39Z,"Fixed costs are $31,000.00. Each unit sells for $103.00 with a variable cost of $39.00. How many units must be sold to break even, to the nearest unit?",301 units,484 units,795 units,218 units
+59,22,2026-10-25T07:01:39Z,A contract signed on 11 September 2026 has a 195-day settlement period. On what date does it settle?,25 March 2027,18 March 2027,24 April 2027,26 March 2027
+59,23,2026-10-25T07:01:39Z,"Quarterly revenue moved from $2,650.00 to $4,045.00. What is the percentage change?",52.6%,34.5%,152.6%,-52.6%
+59,24,2026-10-25T07:01:39Z,"Fixed costs are $6,000.00. Each unit sells for $93.00 with a variable cost of $9.00. How many units must be sold to break even, to the nearest unit?",71 units,65 units,59 units,667 units
+59,25,2026-10-25T07:01:39Z,"An investment of $7,500.00 grows at 3% compounded annually. What is its value after 6 years?","$8,955.39","$8,694.56","$8,850.00","$1,350.00"
