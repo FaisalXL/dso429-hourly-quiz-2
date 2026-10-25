@@ -1524,3 +1524,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 61,23,2026-10-25T09:01:40Z,Region A had 113 orders averaging $61.00; region B had 66 orders averaging $49.00. What is the overall average order value?,56.58,53.42,55.00,89.62
 61,24,2026-10-25T09:01:40Z,"Fixed costs are $13,000.00. Each unit sells for $162.00 with a variable cost of $63.00. How many units must be sold to break even, to the nearest unit?",206 units,58 units,131 units,80 units
 61,25,2026-10-25T09:01:40Z,A retailer sells 967 units at $32.77 each. What is total revenue?,"$31,688.59","$31,360.89","$32,016.29","$32,655.59"
+62,1,2026-10-25T10:02:14Z,"Fixed costs are $8,000.00. Each unit sells for $97.00 with a variable cost of $65.00. How many units must be sold to break even, to the nearest unit?",123 units,82 units,250 units,49 units
+62,2,2026-10-25T10:02:14Z,An item listed at $184.52 is discounted by 40%. What is the sale price?,$73.81,$258.33,$144.52,$110.71
+62,3,2026-10-25T10:02:14Z,Region A had 152 orders averaging $60.00; region B had 53 orders averaging $58.00. What is the overall average order value?,59.48,80.22,59.00,58.52
+62,4,2026-10-25T10:02:14Z,"Quarterly revenue moved from $3,200.00 to $3,809.00. What is the percentage change?",16.0%,-19.0%,19.0%,119.0%
+62,5,2026-10-25T10:02:14Z,"Fixed costs are $5,500.00. Each unit sells for $186.00 with a variable cost of $10.00. How many units must be sold to break even, to the nearest unit?",30 units,28 units,550 units,31 units
+62,6,2026-10-25T10:02:14Z,"Fixed costs are $7,500.00. Each unit sells for $90.00 with a variable cost of $77.00. How many units must be sold to break even, to the nearest unit?",83 units,45 units,97 units,577 units
+62,7,2026-10-25T10:02:14Z,Region A had 38 orders averaging $42.00; region B had 11 orders averaging $73.00. What is the overall average order value?,63.13,66.04,48.96,57.50
+62,8,2026-10-25T10:02:14Z,"A $8,970.00 marketing budget is split between two channels in the ratio 4:2. What does the first channel receive?","$5,980.00","$17,940.00","$2,990.00","$1,495.00"
+62,9,2026-10-25T10:02:14Z,Region A had 179 orders averaging $92.00; region B had 33 orders averaging $35.00. What is the overall average order value?,83.13,43.87,63.50,98.45
+62,10,2026-10-25T10:02:14Z,"A support queue holds 10 billing tickets, 11 technical tickets and 8 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",52.6%,34.5%,72.4%,37.9%
+62,11,2026-10-25T10:02:14Z,"Fixed costs are $32,500.00. Each unit sells for $113.00 with a variable cost of $57.00. How many units must be sold to break even, to the nearest unit?",580 units,191 units,570 units,288 units
+62,12,2026-10-25T10:02:14Z,"A support queue holds 13 billing tickets, 24 technical tickets and 2 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",33.3%,61.5%,94.9%,50.0%
+62,13,2026-10-25T10:02:14Z,Region A had 107 orders averaging $50.00; region B had 181 orders averaging $90.00. What is the overall average order value?,64.86,119.56,75.14,70.00
+62,14,2026-10-25T10:02:14Z,"A product line generates $65,250.00 in revenue against $56,636.90 in cost of goods sold. What is the gross margin?",13.2%,7.1%,15.2%,86.8%
+62,15,2026-10-25T10:02:14Z,"A support queue holds 20 billing tickets, 14 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",42.6%,29.8%,74.1%,72.3%
+62,16,2026-10-25T10:02:14Z,"An investment of $23,500.00 grows at 6% compounded annually. What is its value after 3 years?","$27,730.00","$27,988.88","$4,230.00","$26,404.60"
+62,17,2026-10-25T10:02:14Z,A $840.00 marketing budget is split between two channels in the ratio 3:5. What does the first channel receive?,$504.00,$315.00,$105.00,$525.00
+62,18,2026-10-25T10:02:14Z,"A monthly headcount series runs 4, 16, 28, 40, 52. If the pattern continues, what is the next value?",88,76,52,64
+62,19,2026-10-25T10:02:14Z,"A support queue holds 4 billing tickets, 13 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",50.0%,18.2%,15.4%,65.4%
+62,20,2026-10-25T10:02:14Z,"Quarterly revenue moved from $1,000.00 to $1,261.00. What is the percentage change?",-26.1%,26.1%,126.1%,20.7%
+62,21,2026-10-25T10:02:14Z,"A support queue holds 21 billing tickets, 24 technical tickets and 10 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",43.6%,38.2%,81.8%,61.8%
+62,22,2026-10-25T10:02:14Z,"Fixed costs are $10,500.00. Each unit sells for $136.00 with a variable cost of $13.00. How many units must be sold to break even, to the nearest unit?",70 units,808 units,85 units,77 units
+62,23,2026-10-25T10:02:14Z,"Quarterly revenue moved from $3,050.00 to $1,843.00. What is the percentage change?",-39.6%,39.6%,60.4%,-65.5%
+62,24,2026-10-25T10:02:14Z,"A support queue holds 15 billing tickets, 5 technical tickets and 8 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",53.6%,115.4%,17.9%,71.4%
+62,25,2026-10-25T10:02:14Z,"A support queue holds 4 billing tickets, 18 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",12.1%,13.8%,66.7%,54.5%
