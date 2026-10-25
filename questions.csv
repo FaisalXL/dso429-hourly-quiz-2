@@ -1574,3 +1574,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 63,23,2026-10-25T11:01:50Z,"An invoice for $2,438.23 is converted to euros at 0.9934 euros per US dollar. How many euros is that?","2,422.14","2,665.96","2,454.43","2,178.31"
 63,24,2026-10-25T11:01:50Z,"A monthly headcount series runs 28, 33, 38, 43, 48. If the pattern continues, what is the next value?",53,63,48,58
 63,25,2026-10-25T11:01:50Z,A contract signed on 16 July 2026 has a 107-day settlement period. On what date does it settle?,30 November 2026,24 October 2026,1 November 2026,31 October 2026
+64,1,2026-10-25T12:01:39Z,A retailer sells 148 units at $34.84 each. What is total revenue?,"$5,304.32","$5,156.32","$4,807.92","$5,504.72"
+64,2,2026-10-25T12:01:39Z,A $600.00 marketing budget is split between two channels in the ratio 2:6. What does the first channel receive?,$200.00,$150.00,$450.00,$75.00
+64,3,2026-10-25T12:01:39Z,"Quarterly revenue moved from $2,650.00 to $3,841.00. What is the percentage change?",44.9%,144.9%,-44.9%,31.0%
+64,4,2026-10-25T12:01:39Z,"An investment of $18,000.00 grows at 4% compounded annually. What is its value after 6 years?","$4,320.00","$22,320.00","$22,775.74","$21,899.75"
+64,5,2026-10-25T12:01:39Z,An invoice for $516.38 is converted to euros at 0.6946 euros per US dollar. How many euros is that?,410.32,743.42,358.68,307.04
+64,6,2026-10-25T12:01:39Z,"An investment of $27,000.00 grows at 12% compounded annually. What is its value after 6 years?","$53,293.21","$47,583.23","$19,440.00","$46,440.00"
+64,7,2026-10-25T12:01:39Z,"A product line generates $20,750.00 in revenue against $12,314.53 in cost of goods sold. What is the gross margin?",68.5%,40.7%,59.3%,25.5%
+64,8,2026-10-25T12:01:39Z,"An investment of $40,500.00 grows at 6% compounded annually. What is its value after 8 years?","$64,550.85","$59,940.00","$60,897.03","$19,440.00"
+64,9,2026-10-25T12:01:39Z,Quarterly revenue moved from $450.00 to $682.00. What is the percentage change?,151.6%,51.6%,34.0%,-51.6%
+64,10,2026-10-25T12:01:39Z,"Quarterly revenue moved from $4,900.00 to $5,897.00. What is the percentage change?",120.3%,20.3%,-20.3%,16.9%
+64,11,2026-10-25T12:01:39Z,A retailer sells 740 units at $72.73 each. What is total revenue?,"$54,560.20","$54,547.50","$53,820.20","$53,092.90"
+64,12,2026-10-25T12:01:39Z,"A support queue holds 4 billing tickets, 10 technical tickets and 6 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",20.0%,25.0%,50.0%,70.0%
+64,13,2026-10-25T12:01:39Z,"A support queue holds 6 billing tickets, 8 technical tickets and 15 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",48.3%,26.1%,20.7%,27.6%
+64,14,2026-10-25T12:01:39Z,"An investment of $30,500.00 grows at 2% compounded annually. What is its value after 3 years?","$1,830.00","$31,732.20","$32,330.00","$32,366.84"
+64,15,2026-10-25T12:01:39Z,"Fixed costs are $40,500.00. Each unit sells for $120.00 with a variable cost of $62.00. How many units must be sold to break even, to the nearest unit?",698 units,338 units,223 units,653 units
+64,16,2026-10-25T12:01:39Z,"An invoice for $3,228.60 is converted to euros at 0.8028 euros per US dollar. How many euros is that?","2,591.92","2,269.06","4,021.67","2,914.78"
+64,17,2026-10-25T12:01:39Z,"An invoice for $7,958.02 is converted to euros at 0.8956 euros per US dollar. How many euros is that?","7,923.00","8,885.69","7,127.20","6,331.40"
+64,18,2026-10-25T12:01:39Z,"Fixed costs are $64,500.00. Each unit sells for $192.00 with a variable cost of $95.00. How many units must be sold to break even, to the nearest unit?",679 units,665 units,336 units,225 units
+64,19,2026-10-25T12:01:39Z,"An invoice for $5,849.03 is converted to euros at 0.9099 euros per US dollar. How many euros is that?","4,737.13","5,906.94","6,428.21","5,322.03"
+64,20,2026-10-25T12:01:39Z,Region A had 67 orders averaging $36.00; region B had 179 orders averaging $80.00. What is the overall average order value?,58.00,93.47,68.02,47.98
+64,21,2026-10-25T12:01:39Z,"An investment of $34,000.00 grows at 15% compounded annually. What is its value after 2 years?","$39,100.00","$44,965.00","$10,200.00","$44,200.00"
+64,22,2026-10-25T12:01:39Z,"A monthly headcount series runs 31, 47, 63, 79, 95. If the pattern continues, what is the next value?",127,111,143,95
+64,23,2026-10-25T12:01:39Z,Region A had 15 orders averaging $38.00; region B had 198 orders averaging $82.00. What is the overall average order value?,60.00,41.10,84.88,78.90
+64,24,2026-10-25T12:01:39Z,Region A had 128 orders averaging $67.00; region B had 103 orders averaging $65.00. What is the overall average order value?,66.00,119.30,66.11,65.89
+64,25,2026-10-25T12:01:39Z,Quarterly revenue moved from $250.00 to $178.00. What is the percentage change?,28.8%,71.2%,-40.4%,-28.8%
