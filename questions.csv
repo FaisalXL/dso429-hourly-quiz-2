@@ -1624,3 +1624,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 65,23,2026-10-25T13:01:37Z,A contract signed on 27 June 2026 has a 131-day settlement period. On what date does it settle?,6 November 2026,5 December 2026,29 October 2026,5 November 2026
 65,24,2026-10-25T13:01:37Z,"A support queue holds 15 billing tickets, 24 technical tickets and 10 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",44.1%,30.6%,49.0%,79.6%
 65,25,2026-10-25T13:01:37Z,Region A had 39 orders averaging $20.00; region B had 159 orders averaging $56.00. What is the overall average order value?,48.91,60.91,38.00,27.09
+66,1,2026-10-25T14:01:41Z,"Quarterly revenue moved from $1,500.00 to $1,933.00. What is the percentage change?",22.4%,-28.9%,128.9%,28.9%
+66,2,2026-10-25T14:01:41Z,Region A had 195 orders averaging $50.00; region B had 145 orders averaging $42.00. What is the overall average order value?,45.41,46.00,81.23,46.59
+66,3,2026-10-25T14:01:41Z,Region A had 84 orders averaging $21.00; region B had 173 orders averaging $49.00. What is the overall average order value?,59.20,39.85,30.15,35.00
+66,4,2026-10-25T14:01:41Z,"An invoice for $3,238.21 is converted to euros at 1.3649 euros per US dollar. How many euros is that?","4,096.01","4,743.65","4,419.83","2,372.49"
+66,5,2026-10-25T14:01:41Z,"An invoice for $4,953.21 is converted to euros at 1.1088 euros per US dollar. How many euros is that?","4,467.18","4,996.80","5,987.44","5,492.12"
+66,6,2026-10-25T14:01:41Z,"An invoice for $5,395.25 is converted to euros at 1.0973 euros per US dollar. How many euros is that?","5,920.21","4,916.84","5,380.68","6,459.73"
+66,7,2026-10-25T14:01:41Z,"A monthly headcount series runs 34, 49, 64, 79, 94. If the pattern continues, what is the next value?",109,139,124,94
+66,8,2026-10-25T14:01:41Z,"An investment of $33,500.00 grows at 9% compounded annually. What is its value after 3 years?","$43,383.47","$39,801.35","$42,545.00","$9,045.00"
+66,9,2026-10-25T14:01:41Z,"Quarterly revenue moved from $3,550.00 to $4,039.00. What is the percentage change?",13.8%,113.8%,-13.8%,12.1%
+66,10,2026-10-25T14:01:41Z,"A $1,110.00 marketing budget is split between two channels in the ratio 4:7. What does the first channel receive?",$634.29,$706.36,$403.64,$100.91
+66,11,2026-10-25T14:01:41Z,"An investment of $39,500.00 grows at 13% compounded annually. What is its value after 5 years?","$72,776.19","$64,403.71","$65,175.00","$25,675.00"
+66,12,2026-10-25T14:01:41Z,An invoice for $130.74 is converted to euros at 0.9364 euros per US dollar. How many euros is that?,122.42,139.62,109.35,135.50
+66,13,2026-10-25T14:01:41Z,A retailer sells 428 units at $32.23 each. What is total revenue?,"$14,222.44","$13,794.44","$14,116.74","$13,472.14"
+66,14,2026-10-25T14:01:41Z,Region A had 96 orders averaging $62.00; region B had 193 orders averaging $58.00. What is the overall average order value?,59.33,60.00,60.67,88.84
+66,15,2026-10-25T14:01:41Z,"Fixed costs are $18,000.00. Each unit sells for $166.00 with a variable cost of $72.00. How many units must be sold to break even, to the nearest unit?",250 units,191 units,76 units,108 units
+66,16,2026-10-25T14:01:41Z,A contract signed on 27 November 2026 has a 18-day settlement period. On what date does it settle?,8 December 2026,14 January 2027,16 December 2026,15 December 2026
+66,17,2026-10-25T14:01:41Z,"An investment of $24,000.00 grows at 3% compounded annually. What is its value after 4 years?","$2,880.00","$26,225.45","$27,012.21","$26,880.00"
+66,18,2026-10-25T14:01:41Z,A contract signed on 21 November 2026 has a 191-day settlement period. On what date does it settle?,31 May 2027,24 May 2027,1 June 2027,30 June 2027
+66,19,2026-10-25T14:01:41Z,"Quarterly revenue moved from $2,050.00 to $3,123.00. What is the percentage change?",152.3%,52.3%,-52.3%,34.4%
+66,20,2026-10-25T14:01:41Z,Region A had 21 orders averaging $80.00; region B had 44 orders averaging $22.00. What is the overall average order value?,61.26,51.00,40.74,60.18
+66,21,2026-10-25T14:01:41Z,A retailer sells 961 units at $56.27 each. What is total revenue?,"$55,036.47","$53,512.77","$54,075.47","$54,638.17"
+66,22,2026-10-25T14:01:41Z,"Fixed costs are $41,500.00. Each unit sells for $137.00 with a variable cost of $91.00. How many units must be sold to break even, to the nearest unit?",182 units,303 units,456 units,902 units
+66,23,2026-10-25T14:01:41Z,"Fixed costs are $44,500.00. Each unit sells for $151.00 with a variable cost of $95.00. How many units must be sold to break even, to the nearest unit?",295 units,795 units,181 units,468 units
+66,24,2026-10-25T14:01:41Z,"A support queue holds 5 billing tickets, 7 technical tickets and 12 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",29.2%,20.8%,26.3%,50.0%
+66,25,2026-10-25T14:01:41Z,"A support queue holds 19 billing tickets, 20 technical tickets and 8 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",83.0%,67.9%,42.6%,40.4%
