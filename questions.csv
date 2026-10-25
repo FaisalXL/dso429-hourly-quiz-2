@@ -1349,3 +1349,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 54,23,2026-10-25T02:01:53Z,"Fixed costs are $5,500.00. Each unit sells for $147.00 with a variable cost of $95.00. How many units must be sold to break even, to the nearest unit?",106 units,58 units,23 units,37 units
 54,24,2026-10-25T02:01:53Z,"An invoice for $4,081.94 is converted to euros at 1.7843 euros per US dollar. How many euros is that?","7,691.60","6,875.21","2,287.70","7,283.41"
 54,25,2026-10-25T02:01:53Z,A contract signed on 25 April 2026 has a 236-day settlement period. On what date does it settle?,17 December 2026,10 December 2026,18 December 2026,16 January 2027
+55,1,2026-10-25T03:01:38Z,"Fixed costs are $14,500.00. Each unit sells for $155.00 with a variable cost of $34.00. How many units must be sold to break even, to the nearest unit?",120 units,77 units,426 units,94 units
+55,2,2026-10-25T03:01:38Z,"A support queue holds 18 billing tickets, 19 technical tickets and 6 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",72.0%,44.2%,41.9%,86.0%
+55,3,2026-10-25T03:01:38Z,Region A had 16 orders averaging $88.00; region B had 92 orders averaging $30.00. What is the overall average order value?,38.59,59.00,45.30,79.41
+55,4,2026-10-25T03:01:38Z,A contract signed on 4 December 2026 has a 18-day settlement period. On what date does it settle?,23 December 2026,21 January 2027,22 December 2026,15 December 2026
+55,5,2026-10-25T03:01:38Z,Region A had 89 orders averaging $22.00; region B had 63 orders averaging $48.00. What is the overall average order value?,37.22,55.98,32.78,35.00
+55,6,2026-10-25T03:01:38Z,"Fixed costs are $5,000.00. Each unit sells for $96.00 with a variable cost of $25.00. How many units must be sold to break even, to the nearest unit?",52 units,70 units,41 units,200 units
+55,7,2026-10-25T03:01:38Z,A retailer sells 693 units at $82.83 each. What is total revenue?,"$58,094.19","$58,229.49","$57,401.19","$56,572.89"
+55,8,2026-10-25T03:01:38Z,"Quarterly revenue moved from $800.00 to $1,092.00. What is the percentage change?",136.5%,36.5%,-36.5%,26.7%
+55,9,2026-10-25T03:01:38Z,"A monthly headcount series runs 11, 28, 45, 62, 79. If the pattern continues, what is the next value?",113,130,79,96
+55,10,2026-10-25T03:01:38Z,"Quarterly revenue moved from $4,800.00 to $6,102.00. What is the percentage change?",21.3%,-27.1%,127.1%,27.1%
+55,11,2026-10-25T03:01:38Z,A retailer sells 427 units at $83.13 each. What is total revenue?,"$34,665.21","$35,923.51","$36,327.81","$35,496.51"
+55,12,2026-10-25T03:01:38Z,"A product line generates $37,250.00 in revenue against $18,465.32 in cost of goods sold. What is the gross margin?",101.7%,50.4%,33.7%,49.6%
+55,13,2026-10-25T03:01:38Z,"Quarterly revenue moved from $1,850.00 to $935.00. What is the percentage change?",-49.5%,-97.9%,49.5%,50.5%
+55,14,2026-10-25T03:01:38Z,A retailer sells 334 units at $75.17 each. What is total revenue?,"$25,858.48","$25,106.78","$25,440.78","$24,355.08"
+55,15,2026-10-25T03:01:38Z,"An investment of $7,000.00 grows at 13% compounded annually. What is its value after 8 years?","$7,280.00","$18,609.11","$14,280.00","$16,468.24"
+55,16,2026-10-25T03:01:38Z,"Quarterly revenue moved from $3,900.00 to $2,031.00. What is the percentage change?",-47.9%,-92.0%,47.9%,52.1%
+55,17,2026-10-25T03:01:38Z,"A support queue holds 21 billing tickets, 6 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",84.4%,65.6%,18.8%,190.9%
+55,18,2026-10-25T03:01:38Z,"A product line generates $27,000.00 in revenue against $15,173.54 in cost of goods sold. What is the gross margin?",77.9%,56.2%,28.0%,43.8%
+55,19,2026-10-25T03:01:38Z,"Fixed costs are $38,000.00. Each unit sells for $149.00 with a variable cost of $58.00. How many units must be sold to break even, to the nearest unit?",655 units,255 units,418 units,184 units
+55,20,2026-10-25T03:01:38Z,Region A had 106 orders averaging $78.00; region B had 91 orders averaging $71.00. What is the overall average order value?,74.77,138.95,74.23,74.50
+55,21,2026-10-25T03:01:38Z,"An investment of $48,500.00 grows at 11% compounded annually. What is its value after 4 years?","$66,330.10","$69,840.00","$73,626.41","$21,340.00"
+55,22,2026-10-25T03:01:38Z,Region A had 147 orders averaging $78.00; region B had 115 orders averaging $31.00. What is the overall average order value?,102.25,51.63,54.50,57.37
+55,23,2026-10-25T03:01:38Z,A contract signed on 23 August 2026 has a 292-day settlement period. On what date does it settle?,11 June 2027,4 June 2027,11 July 2027,12 June 2027
+55,24,2026-10-25T03:01:38Z,"An investment of $41,000.00 grows at 9% compounded annually. What is its value after 3 years?","$11,070.00","$53,096.19","$48,712.10","$52,070.00"
+55,25,2026-10-25T03:01:38Z,A contract signed on 13 April 2026 has a 79-day settlement period. On what date does it settle?,31 July 2026,2 July 2026,24 June 2026,1 July 2026
