@@ -2074,3 +2074,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 83,23,2026-10-26T07:02:12Z,"Quarterly revenue moved from $650.00 to $1,037.00. What is the percentage change?",159.5%,37.3%,59.5%,-59.5%
 83,24,2026-10-26T07:02:12Z,A contract signed on 15 August 2026 has a 68-day settlement period. On what date does it settle?,22 October 2026,21 November 2026,15 October 2026,23 October 2026
 83,25,2026-10-26T07:02:12Z,"Quarterly revenue moved from $3,000.00 to $1,532.00. What is the percentage change?",-48.9%,48.9%,51.1%,-95.8%
+84,1,2026-10-26T08:01:38Z,"An investment of $28,000.00 grows at 6% compounded annually. What is its value after 4 years?","$33,348.45","$35,349.35","$6,720.00","$34,720.00"
+84,2,2026-10-26T08:01:38Z,"A support queue holds 17 billing tickets, 15 technical tickets and 10 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",40.5%,68.0%,35.7%,76.2%
+84,3,2026-10-26T08:01:38Z,"Fixed costs are $31,500.00. Each unit sells for $69.00 with a variable cost of $33.00. How many units must be sold to break even, to the nearest unit?",309 units,875 units,457 units,955 units
+84,4,2026-10-26T08:01:38Z,"An invoice for $6,223.45 is converted to euros at 0.8561 euros per US dollar. How many euros is that?","4,705.55","5,950.24","7,269.54","5,327.90"
+84,5,2026-10-26T08:01:38Z,"A product line generates $82,000.00 in revenue against $61,447.80 in cost of goods sold. What is the gross margin?",74.9%,25.1%,33.4%,14.3%
+84,6,2026-10-26T08:01:38Z,"A support queue holds 18 billing tickets, 23 technical tickets and 8 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",36.7%,83.7%,58.1%,46.9%
+84,7,2026-10-26T08:01:38Z,"A support queue holds 23 billing tickets, 9 technical tickets and 4 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",88.9%,25.0%,63.9%,176.9%
+84,8,2026-10-26T08:01:38Z,"A monthly headcount series runs 25, 37, 49, 61, 73. If the pattern continues, what is the next value?",73,109,97,85
+84,9,2026-10-26T08:01:38Z,Region A had 36 orders averaging $32.00; region B had 109 orders averaging $92.00. What is the overall average order value?,102.57,77.10,62.00,46.90
+84,10,2026-10-26T08:01:38Z,A retailer sells 537 units at $89.32 each. What is total revenue?,"$48,501.84","$47,071.64","$48,858.04","$47,964.84"
+84,11,2026-10-26T08:01:38Z,A $660.00 marketing budget is split between two channels in the ratio 2:4. What does the first channel receive?,$330.00,$110.00,$440.00,$220.00
+84,12,2026-10-26T08:01:38Z,Region A had 14 orders averaging $28.00; region B had 19 orders averaging $67.00. What is the overall average order value?,87.63,50.45,47.50,44.55
+84,13,2026-10-26T08:01:38Z,"Quarterly revenue moved from $1,250.00 to $715.00. What is the percentage change?",-42.8%,-74.8%,57.2%,42.8%
+84,14,2026-10-26T08:01:38Z,Region A had 165 orders averaging $54.00; region B had 185 orders averaging $73.00. What is the overall average order value?,121.16,63.50,62.96,64.04
+84,15,2026-10-26T08:01:38Z,A contract signed on 4 September 2026 has a 288-day settlement period. On what date does it settle?,20 June 2027,19 July 2027,12 June 2027,19 June 2027
+84,16,2026-10-26T08:01:38Z,Region A had 163 orders averaging $33.00; region B had 17 orders averaging $47.00. What is the overall average order value?,34.32,45.68,37.90,40.00
+84,17,2026-10-26T08:01:38Z,"A product line generates $54,250.00 in revenue against $32,978.66 in cost of goods sold. What is the gross margin?",39.2%,60.8%,64.5%,24.4%
+84,18,2026-10-26T08:01:38Z,"Fixed costs are $56,000.00. Each unit sells for $190.00 with a variable cost of $100.00. How many units must be sold to break even, to the nearest unit?",295 units,560 units,622 units,193 units
+84,19,2026-10-26T08:01:38Z,An item listed at $410.36 is discounted by 25%. What is the sale price?,$307.77,$385.36,$512.95,$102.59
+84,20,2026-10-26T08:01:38Z,"A product line generates $27,250.00 in revenue against $13,538.03 in cost of goods sold. What is the gross margin?",33.6%,50.3%,49.7%,101.3%
+84,21,2026-10-26T08:01:38Z,Region A had 184 orders averaging $46.00; region B had 124 orders averaging $38.00. What is the overall average order value?,71.61,42.78,41.22,42.00
+84,22,2026-10-26T08:01:38Z,Region A had 89 orders averaging $91.00; region B had 44 orders averaging $84.00. What is the overall average order value?,86.32,132.53,88.68,87.50
+84,23,2026-10-26T08:01:38Z,Region A had 77 orders averaging $60.00; region B had 103 orders averaging $88.00. What is the overall average order value?,71.98,132.85,74.00,76.02
+84,24,2026-10-26T08:01:38Z,"An invoice for $2,040.09 is converted to euros at 0.9798 euros per US dollar. How many euros is that?","2,082.15","1,794.87","1,998.88","2,202.89"
+84,25,2026-10-26T08:01:38Z,"An invoice for $3,215.72 is converted to euros at 1.0940 euros per US dollar. How many euros is that?","2,939.41","3,196.43","3,518.00","3,839.57"
