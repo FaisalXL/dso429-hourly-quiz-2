@@ -2049,3 +2049,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 82,23,2026-10-26T06:02:40Z,"An investment of $12,000.00 grows at 5% compounded annually. What is its value after 7 years?","$16,081.15","$16,885.21","$16,200.00","$4,200.00"
 82,24,2026-10-26T06:02:40Z,"An invoice for $4,903.95 is converted to euros at 1.3029 euros per US dollar. How many euros is that?","5,898.96","6,879.75","3,763.87","6,389.36"
 82,25,2026-10-26T06:02:40Z,"Quarterly revenue moved from $3,500.00 to $2,340.00. What is the percentage change?",33.1%,66.9%,-33.1%,-49.6%
+83,1,2026-10-26T07:02:12Z,Region A had 71 orders averaging $71.00; region B had 47 orders averaging $94.00. What is the overall average order value?,84.84,82.50,133.23,80.16
+83,2,2026-10-26T07:02:12Z,"An investment of $49,000.00 grows at 3% compounded annually. What is its value after 3 years?","$53,410.00","$51,984.10","$53,543.62","$4,410.00"
+83,3,2026-10-26T07:02:12Z,A retailer sells 149 units at $29.58 each. What is total revenue?,"$4,556.42","$4,407.42","$4,111.62","$4,703.22"
+83,4,2026-10-26T07:02:12Z,"A monthly headcount series runs 7, 22, 37, 52, 67. If the pattern continues, what is the next value?",112,97,82,67
+83,5,2026-10-26T07:02:12Z,"A support queue holds 14 billing tickets, 10 technical tickets and 15 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",25.6%,35.9%,56.0%,61.5%
+83,6,2026-10-26T07:02:12Z,"An investment of $5,000.00 grows at 5% compounded annually. What is its value after 8 years?","$7,000.00","$2,000.00","$7,035.50","$7,387.28"
+83,7,2026-10-26T07:02:12Z,"A support queue holds 8 billing tickets, 23 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",28.6%,22.2%,63.9%,86.1%
+83,8,2026-10-26T07:02:12Z,"An investment of $25,000.00 grows at 7% compounded annually. What is its value after 8 years?","$39,000.00","$14,000.00","$42,954.65","$40,144.54"
+83,9,2026-10-26T07:02:12Z,"An investment of $19,500.00 grows at 13% compounded annually. What is its value after 7 years?","$40,598.06","$37,245.00","$45,875.81","$17,745.00"
+83,10,2026-10-26T07:02:12Z,"A $8,100.00 marketing budget is split between two channels in the ratio 6:2. What does the first channel receive?","$2,025.00","$24,300.00","$1,012.50","$6,075.00"
+83,11,2026-10-26T07:02:12Z,An item listed at $580.42 is discounted by 5%. What is the sale price?,$551.40,$29.02,$609.44,$575.42
+83,12,2026-10-26T07:02:12Z,Region A had 196 orders averaging $50.00; region B had 50 orders averaging $27.00. What is the overall average order value?,31.67,38.50,56.89,45.33
+83,13,2026-10-26T07:02:12Z,"Fixed costs are $8,000.00. Each unit sells for $62.00 with a variable cost of $25.00. How many units must be sold to break even, to the nearest unit?",92 units,216 units,129 units,320 units
+83,14,2026-10-26T07:02:12Z,A contract signed on 1 November 2026 has a 147-day settlement period. On what date does it settle?,29 March 2027,27 April 2027,28 March 2027,21 March 2027
+83,15,2026-10-26T07:02:12Z,"A support queue holds 22 billing tickets, 20 technical tickets and 2 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",100.0%,50.0%,95.5%,45.5%
+83,16,2026-10-26T07:02:12Z,"An investment of $26,500.00 grows at 13% compounded annually. What is its value after 5 years?","$43,207.55","$43,725.00","$48,824.53","$17,225.00"
+83,17,2026-10-26T07:02:12Z,"A product line generates $75,500.00 in revenue against $50,639.96 in cost of goods sold. What is the gross margin?",19.7%,32.9%,67.1%,49.1%
+83,18,2026-10-26T07:02:12Z,"Quarterly revenue moved from $1,350.00 to $1,771.00. What is the percentage change?",-31.2%,23.8%,31.2%,131.2%
+83,19,2026-10-26T07:02:12Z,Region A had 90 orders averaging $89.00; region B had 130 orders averaging $62.00. What is the overall average order value?,73.05,77.95,123.62,75.50
+83,20,2026-10-26T07:02:12Z,Region A had 25 orders averaging $85.00; region B had 65 orders averaging $41.00. What is the overall average order value?,73.69,53.22,63.00,72.78
+83,21,2026-10-26T07:02:12Z,"An invoice for $5,430.35 is converted to euros at 0.8997 euros per US dollar. How many euros is that?","4,885.69","5,428.72","6,035.73","4,342.65"
+83,22,2026-10-26T07:02:12Z,"An invoice for $3,116.81 is converted to euros at 1.8893 euros per US dollar. How many euros is that?","5,888.59","5,576.91","6,200.27","1,649.72"
+83,23,2026-10-26T07:02:12Z,"Quarterly revenue moved from $650.00 to $1,037.00. What is the percentage change?",159.5%,37.3%,59.5%,-59.5%
+83,24,2026-10-26T07:02:12Z,A contract signed on 15 August 2026 has a 68-day settlement period. On what date does it settle?,22 October 2026,21 November 2026,15 October 2026,23 October 2026
+83,25,2026-10-26T07:02:12Z,"Quarterly revenue moved from $3,000.00 to $1,532.00. What is the percentage change?",-48.9%,48.9%,51.1%,-95.8%
