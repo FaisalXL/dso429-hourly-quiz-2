@@ -2174,3 +2174,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 87,23,2026-10-26T11:16:40Z,"A support queue holds 22 billing tickets, 8 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",76.9%,129.4%,56.4%,20.5%
 87,24,2026-10-26T11:16:40Z,"A product line generates $32,250.00 in revenue against $18,740.56 in cost of goods sold. What is the gross margin?",26.5%,72.1%,41.9%,58.1%
 87,25,2026-10-26T11:16:40Z,Quarterly revenue moved from $800.00 to $996.00. What is the percentage change?,124.5%,-24.5%,24.5%,19.7%
+88,1,2026-10-26T12:01:41Z,A contract signed on 28 July 2026 has a 303-day settlement period. On what date does it settle?,26 June 2027,27 May 2027,20 May 2027,28 May 2027
+88,2,2026-10-26T12:01:41Z,Region A had 43 orders averaging $50.00; region B had 38 orders averaging $38.00. What is the overall average order value?,43.63,44.37,44.00,83.58
+88,3,2026-10-26T12:01:41Z,"An investment of $49,500.00 grows at 14% compounded annually. What is its value after 6 years?","$41,580.00","$108,651.14","$91,080.00","$95,308.02"
+88,4,2026-10-26T12:01:41Z,"An investment of $43,000.00 grows at 7% compounded annually. What is its value after 3 years?","$9,030.00","$52,030.00","$49,230.70","$52,676.85"
+88,5,2026-10-26T12:01:41Z,"An invoice for $1,928.04 is converted to euros at 1.3541 euros per US dollar. How many euros is that?","2,610.76","2,417.95","1,423.85","2,803.56"
+88,6,2026-10-26T12:01:41Z,"Fixed costs are $5,000.00. Each unit sells for $161.00 with a variable cost of $125.00. How many units must be sold to break even, to the nearest unit?",40 units,139 units,31 units,17 units
+88,7,2026-10-26T12:01:41Z,A contract signed on 6 September 2026 has a 288-day settlement period. On what date does it settle?,21 July 2027,14 June 2027,22 June 2027,21 June 2027
+88,8,2026-10-26T12:01:41Z,"Fixed costs are $8,500.00. Each unit sells for $47.00 with a variable cost of $35.00. How many units must be sold to break even, to the nearest unit?",243 units,181 units,104 units,708 units
+88,9,2026-10-26T12:01:41Z,"A product line generates $71,000.00 in revenue against $40,259.80 in cost of goods sold. What is the gross margin?",27.6%,76.4%,43.3%,56.7%
+88,10,2026-10-26T12:01:41Z,"Quarterly revenue moved from $2,350.00 to $2,902.00. What is the percentage change?",23.5%,19.0%,-23.5%,123.5%
+88,11,2026-10-26T12:01:41Z,"A $7,110.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$5,332.50","$3,047.14","$4,062.86","$1,015.71"
+88,12,2026-10-26T12:01:41Z,Region A had 119 orders averaging $78.00; region B had 77 orders averaging $92.00. What is the overall average order value?,85.00,83.50,137.53,86.50
+88,13,2026-10-26T12:01:41Z,"Fixed costs are $10,500.00. Each unit sells for $141.00 with a variable cost of $130.00. How many units must be sold to break even, to the nearest unit?",955 units,39 units,81 units,74 units
+88,14,2026-10-26T12:01:41Z,"An investment of $8,500.00 grows at 10% compounded annually. What is its value after 4 years?","$11,900.00","$12,444.85","$11,313.50","$3,400.00"
+88,15,2026-10-26T12:01:41Z,"A $8,430.00 marketing budget is split between two channels in the ratio 3:5. What does the first channel receive?","$5,058.00","$5,268.75","$1,053.75","$3,161.25"
+88,16,2026-10-26T12:01:41Z,A retailer sells 856 units at $78.13 each. What is total revenue?,"$67,735.28","$66,097.98","$67,660.58","$66,879.28"
+88,17,2026-10-26T12:01:41Z,A contract signed on 15 March 2026 has a 309-day settlement period. On what date does it settle?,18 January 2027,17 February 2027,19 January 2027,11 January 2027
+88,18,2026-10-26T12:01:41Z,A $600.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?,$240.00,$360.00,$400.00,$120.00
+88,19,2026-10-26T12:01:41Z,A contract signed on 1 December 2026 has a 210-day settlement period. On what date does it settle?,29 July 2027,29 June 2027,30 June 2027,22 June 2027
+88,20,2026-10-26T12:01:41Z,"An invoice for $4,191.23 is converted to euros at 1.2572 euros per US dollar. How many euros is that?","4,850.09","3,333.78","5,688.34","5,269.21"
+88,21,2026-10-26T12:01:41Z,Region A had 151 orders averaging $72.00; region B had 174 orders averaging $48.00. What is the overall average order value?,60.85,110.48,60.00,59.15
+88,22,2026-10-26T12:01:41Z,A contract signed on 21 December 2026 has a 304-day settlement period. On what date does it settle?,14 October 2027,22 October 2027,21 October 2027,20 November 2027
+88,23,2026-10-26T12:01:41Z,"Fixed costs are $52,500.00. Each unit sells for $170.00 with a variable cost of $80.00. How many units must be sold to break even, to the nearest unit?",583 units,210 units,656 units,309 units
+88,24,2026-10-26T12:01:41Z,"An invoice for $6,080.49 is converted to euros at 0.7996 euros per US dollar. How many euros is that?","4,861.96","5,470.01","4,253.91","7,604.41"
+88,25,2026-10-26T12:01:41Z,"An invoice for $2,369.83 is converted to euros at 1.2499 euros per US dollar. How many euros is that?","3,199.03","2,962.05","1,896.02","2,725.07"
