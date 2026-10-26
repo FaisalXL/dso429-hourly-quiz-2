@@ -1974,3 +1974,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 79,23,2026-10-26T03:01:37Z,"A product line generates $57,750.00 in revenue against $28,727.75 in cost of goods sold. What is the gross margin?",49.7%,101.0%,50.3%,33.6%
 79,24,2026-10-26T03:01:37Z,"An invoice for $8,362.49 is converted to euros at 0.9969 euros per US dollar. How many euros is that?","9,172.82","8,388.49","8,336.57","7,500.32"
 79,25,2026-10-26T03:01:37Z,"Fixed costs are $17,500.00. Each unit sells for $77.00 with a variable cost of $56.00. How many units must be sold to break even, to the nearest unit?",227 units,132 units,312 units,833 units
+80,1,2026-10-26T04:01:39Z,"A monthly headcount series runs 23, 32, 41, 50, 59. If the pattern continues, what is the next value?",77,68,86,59
+80,2,2026-10-26T04:01:39Z,Region A had 13 orders averaging $57.00; region B had 196 orders averaging $67.00. What is the overall average order value?,70.78,57.62,62.00,66.38
+80,3,2026-10-26T04:01:39Z,"A product line generates $82,250.00 in revenue against $46,235.10 in cost of goods sold. What is the gross margin?",56.2%,28.0%,77.9%,43.8%
+80,4,2026-10-26T04:01:39Z,"An invoice for $2,145.63 is converted to euros at 1.0007 euros per US dollar. How many euros is that?","2,147.13","1,932.57","2,361.69","2,144.13"
+80,5,2026-10-26T04:01:39Z,"An investment of $43,000.00 grows at 10% compounded annually. What is its value after 2 years?","$51,600.00","$8,600.00","$47,300.00","$52,030.00"
+80,6,2026-10-26T04:01:39Z,"Quarterly revenue moved from $4,100.00 to $3,616.00. What is the percentage change?",11.8%,88.2%,-13.4%,-11.8%
+80,7,2026-10-26T04:01:39Z,An item listed at $725.42 is discounted by 20%. What is the sale price?,$580.34,$870.50,$705.42,$145.08
+80,8,2026-10-26T04:01:39Z,"A monthly headcount series runs 19, 32, 45, 58, 71. If the pattern continues, what is the next value?",110,84,97,71
+80,9,2026-10-26T04:01:39Z,"Fixed costs are $51,500.00. Each unit sells for $38.00 with a variable cost of $13.00. How many units must be sold to break even, to the nearest unit?","1,355 units","1,010 units","2,060 units","3,962 units"
+80,10,2026-10-26T04:01:39Z,"An invoice for $7,076.58 is converted to euros at 1.8490 euros per US dollar. How many euros is that?","13,792.25","13,084.60","12,376.94","3,827.25"
+80,11,2026-10-26T04:01:39Z,"Fixed costs are $70,500.00. Each unit sells for $50.00 with a variable cost of $18.00. How many units must be sold to break even, to the nearest unit?","2,203 units","1,037 units","3,917 units","1,410 units"
+80,12,2026-10-26T04:01:39Z,"Fixed costs are $71,000.00. Each unit sells for $191.00 with a variable cost of $100.00. How many units must be sold to break even, to the nearest unit?",244 units,710 units,372 units,780 units
+80,13,2026-10-26T04:01:39Z,"A monthly headcount series runs 6, 22, 38, 54, 70. If the pattern continues, what is the next value?",86,70,102,118
+80,14,2026-10-26T04:01:39Z,Region A had 100 orders averaging $74.00; region B had 19 orders averaging $92.00. What is the overall average order value?,83.00,89.13,76.87,91.48
+80,15,2026-10-26T04:01:39Z,Region A had 39 orders averaging $33.00; region B had 191 orders averaging $27.00. What is the overall average order value?,30.00,33.74,31.98,28.02
+80,16,2026-10-26T04:01:39Z,"A support queue holds 10 billing tickets, 4 technical tickets and 15 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",34.5%,13.8%,48.3%,52.6%
+80,17,2026-10-26T04:01:39Z,"Fixed costs are $44,500.00. Each unit sells for $184.00 with a variable cost of $46.00. How many units must be sold to break even, to the nearest unit?",193 units,322 units,967 units,242 units
+80,18,2026-10-26T04:01:39Z,"A product line generates $71,000.00 in revenue against $61,974.57 in cost of goods sold. What is the gross margin?",12.7%,87.3%,14.6%,6.8%
+80,19,2026-10-26T04:01:39Z,"Fixed costs are $75,500.00. Each unit sells for $196.00 with a variable cost of $77.00. How many units must be sold to break even, to the nearest unit?",634 units,277 units,981 units,385 units
+80,20,2026-10-26T04:01:39Z,"Quarterly revenue moved from $1,500.00 to $1,389.00. What is the percentage change?",-7.4%,92.6%,7.4%,-8.0%
+80,21,2026-10-26T04:01:39Z,"An invoice for $3,465.79 is converted to euros at 1.4568 euros per US dollar. How many euros is that?","5,395.54","5,048.96","2,379.04","4,702.38"
+80,22,2026-10-26T04:01:39Z,"Quarterly revenue moved from $1,900.00 to $1,793.00. What is the percentage change?",-6.0%,-5.6%,94.4%,5.6%
+80,23,2026-10-26T04:01:39Z,"A product line generates $71,500.00 in revenue against $37,065.28 in cost of goods sold. What is the gross margin?",48.2%,51.8%,31.7%,92.9%
+80,24,2026-10-26T04:01:39Z,"Fixed costs are $15,000.00. Each unit sells for $102.00 with a variable cost of $85.00. How many units must be sold to break even, to the nearest unit?",147 units,176 units,80 units,882 units
+80,25,2026-10-26T04:01:39Z,"A product line generates $47,250.00 in revenue against $24,875.24 in cost of goods sold. What is the gross margin?",47.4%,89.9%,52.6%,31.0%
