@@ -1999,3 +1999,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 80,23,2026-10-26T04:01:39Z,"A product line generates $71,500.00 in revenue against $37,065.28 in cost of goods sold. What is the gross margin?",48.2%,51.8%,31.7%,92.9%
 80,24,2026-10-26T04:01:39Z,"Fixed costs are $15,000.00. Each unit sells for $102.00 with a variable cost of $85.00. How many units must be sold to break even, to the nearest unit?",147 units,176 units,80 units,882 units
 80,25,2026-10-26T04:01:39Z,"A product line generates $47,250.00 in revenue against $24,875.24 in cost of goods sold. What is the gross margin?",47.4%,89.9%,52.6%,31.0%
+81,1,2026-10-26T05:02:12Z,"An invoice for $8,147.88 is converted to euros at 1.2278 euros per US dollar. How many euros is that?","6,636.16","10,003.97","9,189.18","10,818.76"
+81,2,2026-10-26T05:02:12Z,"Fixed costs are $24,000.00. Each unit sells for $84.00 with a variable cost of $37.00. How many units must be sold to break even, to the nearest unit?",286 units,198 units,649 units,511 units
+81,3,2026-10-26T05:02:12Z,A contract signed on 13 January 2026 has a 169-day settlement period. On what date does it settle?,31 July 2026,24 June 2026,2 July 2026,1 July 2026
+81,4,2026-10-26T05:02:12Z,"A support queue holds 13 billing tickets, 11 technical tickets and 14 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",52.0%,28.9%,34.2%,63.2%
+81,5,2026-10-26T05:02:12Z,"An invoice for $2,783.68 is converted to euros at 1.6657 euros per US dollar. How many euros is that?","1,671.18","4,358.41","4,636.78","4,915.14"
+81,6,2026-10-26T05:02:12Z,Region A had 158 orders averaging $62.00; region B had 187 orders averaging $86.00. What is the overall average order value?,138.39,74.00,72.99,75.01
+81,7,2026-10-26T05:02:12Z,"An investment of $16,000.00 grows at 4% compounded annually. What is its value after 7 years?","$20,245.10","$20,480.00","$21,054.91","$4,480.00"
+81,8,2026-10-26T05:02:12Z,"An investment of $10,500.00 grows at 10% compounded annually. What is its value after 8 years?","$18,900.00","$20,461.53","$8,400.00","$22,507.68"
+81,9,2026-10-26T05:02:12Z,A contract signed on 23 March 2026 has a 58-day settlement period. On what date does it settle?,19 June 2026,21 May 2026,20 May 2026,13 May 2026
+81,10,2026-10-26T05:02:12Z,A retailer sells 556 units at $79.67 each. What is total revenue?,"$44,296.52","$45,093.22","$43,499.82","$44,852.52"
+81,11,2026-10-26T05:02:12Z,"An investment of $34,000.00 grows at 6% compounded annually. What is its value after 3 years?","$38,202.40","$40,494.54","$6,120.00","$40,120.00"
+81,12,2026-10-26T05:02:12Z,"A support queue holds 11 billing tickets, 21 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",74.4%,34.4%,48.8%,25.6%
+81,13,2026-10-26T05:02:12Z,"A product line generates $72,500.00 in revenue against $44,509.70 in cost of goods sold. What is the gross margin?",23.9%,38.6%,62.9%,61.4%
+81,14,2026-10-26T05:02:12Z,"A product line generates $22,250.00 in revenue against $13,026.71 in cost of goods sold. What is the gross margin?",58.5%,70.8%,26.1%,41.5%
+81,15,2026-10-26T05:02:12Z,An item listed at $352.96 is discounted by 15%. What is the sale price?,$300.02,$337.96,$52.94,$405.90
+81,16,2026-10-26T05:02:12Z,A retailer sells 353 units at $29.16 each. What is total revenue?,"$10,293.48","$10,001.88","$10,646.48","$10,585.08"
+81,17,2026-10-26T05:02:12Z,An item listed at $335.56 is discounted by 15%. What is the sale price?,$285.23,$385.89,$50.33,$320.56
+81,18,2026-10-26T05:02:12Z,Region A had 112 orders averaging $50.00; region B had 62 orders averaging $42.00. What is the overall average order value?,73.25,46.00,47.15,44.85
+81,19,2026-10-26T05:02:12Z,Quarterly revenue moved from $850.00 to $463.00. What is the percentage change?,-45.5%,54.5%,45.5%,-83.6%
+81,20,2026-10-26T05:02:12Z,Region A had 29 orders averaging $64.00; region B had 44 orders averaging $89.00. What is the overall average order value?,79.07,131.18,73.93,76.50
+81,21,2026-10-26T05:02:12Z,Region A had 105 orders averaging $26.00; region B had 132 orders averaging $50.00. What is the overall average order value?,36.63,70.68,39.37,38.00
+81,22,2026-10-26T05:02:12Z,"Quarterly revenue moved from $1,850.00 to $1,293.00. What is the percentage change?",-30.1%,30.1%,-43.1%,69.9%
+81,23,2026-10-26T05:02:12Z,Region A had 97 orders averaging $95.00; region B had 155 orders averaging $32.00. What is the overall average order value?,91.45,63.50,56.25,70.75
+81,24,2026-10-26T05:02:12Z,"A support queue holds 15 billing tickets, 23 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",77.6%,46.9%,30.6%,44.1%
+81,25,2026-10-26T05:02:12Z,"An investment of $24,500.00 grows at 14% compounded annually. What is its value after 8 years?","$69,888.37","$27,440.00","$51,940.00","$61,305.59"
