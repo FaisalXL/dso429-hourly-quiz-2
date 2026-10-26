@@ -1874,3 +1874,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 75,23,2026-10-25T23:01:39Z,Region A had 54 orders averaging $65.00; region B had 169 orders averaging $82.00. What is the overall average order value?,73.50,77.88,69.12,102.77
 75,24,2026-10-25T23:01:39Z,A retailer sells 415 units at $68.33 each. What is total revenue?,"$27,673.65","$29,040.25","$28,356.95","$28,771.95"
 75,25,2026-10-25T23:01:39Z,"Quarterly revenue moved from $2,100.00 to $2,713.00. What is the percentage change?",29.2%,-29.2%,129.2%,22.6%
+76,1,2026-10-26T00:01:50Z,"An investment of $9,000.00 grows at 3% compounded annually. What is its value after 7 years?","$10,890.00","$11,068.86","$1,890.00","$10,746.47"
+76,2,2026-10-26T00:01:50Z,"A product line generates $18,500.00 in revenue against $12,944.32 in cost of goods sold. What is the gross margin?",30.0%,42.9%,17.7%,70.0%
+76,3,2026-10-26T00:01:50Z,"An invoice for $8,851.31 is converted to euros at 1.8084 euros per US dollar. How many euros is that?","16,006.71","4,894.55","16,891.84","15,121.58"
+76,4,2026-10-26T00:01:50Z,"A monthly headcount series runs 9, 13, 17, 21, 25. If the pattern continues, what is the next value?",25,37,29,33
+76,5,2026-10-26T00:01:50Z,"A support queue holds 23 billing tickets, 12 technical tickets and 4 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",89.7%,59.0%,30.8%,143.8%
+76,6,2026-10-26T00:01:50Z,Region A had 200 orders averaging $34.00; region B had 19 orders averaging $42.00. What is the overall average order value?,41.31,38.00,34.69,37.99
+76,7,2026-10-26T00:01:50Z,Region A had 53 orders averaging $49.00; region B had 16 orders averaging $82.00. What is the overall average order value?,73.75,56.65,65.50,74.35
+76,8,2026-10-26T00:01:50Z,"An investment of $19,000.00 grows at 10% compounded annually. What is its value after 4 years?","$27,817.90","$7,600.00","$25,289.00","$26,600.00"
+76,9,2026-10-26T00:01:50Z,"A monthly headcount series runs 13, 25, 37, 49, 61. If the pattern continues, what is the next value?",97,73,85,61
+76,10,2026-10-26T00:01:50Z,A contract signed on 7 October 2026 has a 75-day settlement period. On what date does it settle?,22 December 2026,20 January 2027,14 December 2026,21 December 2026
+76,11,2026-10-26T00:01:50Z,"An investment of $29,500.00 grows at 5% compounded annually. What is its value after 2 years?","$30,975.00","$32,450.00","$2,950.00","$32,523.75"
+76,12,2026-10-26T00:01:50Z,A contract signed on 19 July 2026 has a 241-day settlement period. On what date does it settle?,18 March 2027,16 April 2027,17 March 2027,10 March 2027
+76,13,2026-10-26T00:01:50Z,An item listed at $409.80 is discounted by 45%. What is the sale price?,$364.80,$184.41,$225.39,$594.21
+76,14,2026-10-26T00:01:50Z,"An investment of $42,000.00 grows at 11% compounded annually. What is its value after 8 years?","$78,960.00","$96,790.59","$87,198.73","$36,960.00"
+76,15,2026-10-26T00:01:50Z,An item listed at $611.09 is discounted by 45%. What is the sale price?,$274.99,$886.08,$336.10,$566.09
+76,16,2026-10-26T00:01:50Z,"An investment of $22,000.00 grows at 11% compounded annually. What is its value after 5 years?","$37,071.28","$12,100.00","$34,100.00","$33,397.55"
+76,17,2026-10-26T00:01:50Z,"An invoice for $3,753.32 is converted to euros at 1.2490 euros per US dollar. How many euros is that?","4,312.56","4,687.90","3,005.06","5,063.23"
+76,18,2026-10-26T00:01:50Z,Region A had 200 orders averaging $70.00; region B had 51 orders averaging $22.00. What is the overall average order value?,31.75,60.25,75.61,46.00
+76,19,2026-10-26T00:01:50Z,"Fixed costs are $53,000.00. Each unit sells for $128.00 with a variable cost of $57.00. How many units must be sold to break even, to the nearest unit?",414 units,930 units,286 units,746 units
+76,20,2026-10-26T00:01:50Z,"A product line generates $17,500.00 in revenue against $11,400.27 in cost of goods sold. What is the gross margin?",53.5%,65.1%,21.1%,34.9%
+76,21,2026-10-26T00:01:50Z,"An investment of $14,500.00 grows at 5% compounded annually. What is its value after 2 years?","$1,450.00","$15,986.25","$15,950.00","$15,225.00"
+76,22,2026-10-26T00:01:50Z,"An invoice for $7,626.42 is converted to euros at 1.3530 euros per US dollar. How many euros is that?","5,636.67","10,318.55","11,081.19","9,555.90"
+76,23,2026-10-26T00:01:50Z,Quarterly revenue moved from $200.00 to $188.00. What is the percentage change?,-6.4%,-6.0%,6.0%,94.0%
+76,24,2026-10-26T00:01:50Z,"A product line generates $54,000.00 in revenue against $27,624.37 in cost of goods sold. What is the gross margin?",48.8%,95.5%,51.2%,32.3%
+76,25,2026-10-26T00:01:50Z,"A product line generates $55,250.00 in revenue against $30,670.53 in cost of goods sold. What is the gross margin?",44.5%,55.5%,28.6%,80.1%
