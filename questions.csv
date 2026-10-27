@@ -2599,3 +2599,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 104,23,2026-10-27T04:01:39Z,A retailer sells 185 units at $10.33 each. What is total revenue?,"$1,807.75","$2,014.35","$1,911.05","$2,096.05"
 104,24,2026-10-27T04:01:39Z,"Quarterly revenue moved from $4,700.00 to $2,965.00. What is the percentage change?",36.9%,-58.5%,-36.9%,63.1%
 104,25,2026-10-27T04:01:39Z,Region A had 92 orders averaging $52.00; region B had 26 orders averaging $79.00. What is the overall average order value?,73.05,57.95,74.33,65.50
+105,1,2026-10-27T05:01:44Z,A retailer sells 956 units at $53.97 each. What is total revenue?,"$51,055.62","$52,551.32","$52,135.02","$51,595.32"
+105,2,2026-10-27T05:01:44Z,"Fixed costs are $56,500.00. Each unit sells for $163.00 with a variable cost of $74.00. How many units must be sold to break even, to the nearest unit?",635 units,238 units,347 units,764 units
+105,3,2026-10-27T05:01:44Z,Region A had 123 orders averaging $65.00; region B had 69 orders averaging $20.00. What is the overall average order value?,48.83,76.22,36.17,42.50
+105,4,2026-10-27T05:01:44Z,Region A had 98 orders averaging $79.00; region B had 154 orders averaging $91.00. What is the overall average order value?,83.67,86.33,141.27,85.00
+105,5,2026-10-27T05:01:44Z,"An invoice for $5,497.92 is converted to euros at 1.7469 euros per US dollar. How many euros is that?","9,604.32","9,054.52","10,154.11","3,147.24"
+105,6,2026-10-27T05:01:44Z,"Quarterly revenue moved from $1,150.00 to $1,416.00. What is the percentage change?",18.8%,-23.1%,123.1%,23.1%
+105,7,2026-10-27T05:01:44Z,"Quarterly revenue moved from $4,300.00 to $3,247.00. What is the percentage change?",75.5%,-32.4%,-24.5%,24.5%
+105,8,2026-10-27T05:01:44Z,"Fixed costs are $7,000.00. Each unit sells for $174.00 with a variable cost of $100.00. How many units must be sold to break even, to the nearest unit?",26 units,40 units,70 units,95 units
+105,9,2026-10-27T05:01:44Z,"An investment of $16,000.00 grows at 14% compounded annually. What is its value after 6 years?","$13,440.00","$29,440.00","$30,806.63","$35,119.56"
+105,10,2026-10-27T05:01:44Z,"An investment of $39,000.00 grows at 6% compounded annually. What is its value after 8 years?","$62,160.07","$58,641.58","$57,720.00","$18,720.00"
+105,11,2026-10-27T05:01:44Z,"Fixed costs are $9,500.00. Each unit sells for $121.00 with a variable cost of $88.00. How many units must be sold to break even, to the nearest unit?",45 units,108 units,288 units,79 units
+105,12,2026-10-27T05:01:44Z,"A support queue holds 17 billing tickets, 15 technical tickets and 14 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",69.6%,58.6%,37.0%,32.6%
+105,13,2026-10-27T05:01:44Z,"A product line generates $86,250.00 in revenue against $72,399.17 in cost of goods sold. What is the gross margin?",19.1%,16.1%,83.9%,8.7%
+105,14,2026-10-27T05:01:44Z,"An invoice for $3,297.88 is converted to euros at 1.3709 euros per US dollar. How many euros is that?","4,191.28","2,405.63","4,521.06","4,850.85"
+105,15,2026-10-27T05:01:44Z,"Fixed costs are $67,500.00. Each unit sells for $180.00 with a variable cost of $92.00. How many units must be sold to break even, to the nearest unit?",248 units,375 units,767 units,734 units
+105,16,2026-10-27T05:01:44Z,"Fixed costs are $20,500.00. Each unit sells for $181.00 with a variable cost of $68.00. How many units must be sold to break even, to the nearest unit?",113 units,82 units,181 units,301 units
+105,17,2026-10-27T05:01:44Z,A retailer sells 457 units at $61.42 each. What is total revenue?,"$28,068.94","$28,683.14","$27,454.74","$28,525.94"
+105,18,2026-10-27T05:01:44Z,"An invoice for $2,960.06 is converted to euros at 1.3423 euros per US dollar. How many euros is that?","3,677.28","4,269.29","2,205.21","3,973.29"
+105,19,2026-10-27T05:01:44Z,Region A had 161 orders averaging $58.00; region B had 181 orders averaging $79.00. What is the overall average order value?,68.50,69.11,67.89,130.59
+105,20,2026-10-27T05:01:44Z,"A monthly headcount series runs 31, 37, 43, 49, 55. If the pattern continues, what is the next value?",73,67,61,55
+105,21,2026-10-27T05:01:44Z,"A product line generates $89,000.00 in revenue against $61,791.72 in cost of goods sold. What is the gross margin?",18.0%,69.4%,30.6%,44.0%
+105,22,2026-10-27T05:01:44Z,"A support queue holds 18 billing tickets, 3 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",80.8%,225.0%,11.5%,69.2%
+105,23,2026-10-27T05:01:44Z,A contract signed on 27 January 2026 has a 118-day settlement period. On what date does it settle?,18 May 2026,25 May 2026,26 May 2026,24 June 2026
+105,24,2026-10-27T05:01:44Z,A retailer sells 142 units at $28.40 each. What is total revenue?,"$4,316.80","$4,032.80","$3,748.80","$4,174.80"
+105,25,2026-10-27T05:01:44Z,"A support queue holds 15 billing tickets, 11 technical tickets and 7 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",83.3%,78.8%,33.3%,45.5%
