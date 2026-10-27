@@ -2824,3 +2824,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 113,23,2026-10-27T13:02:50Z,"A monthly headcount series runs 5, 19, 33, 47, 61. If the pattern continues, what is the next value?",89,61,103,75
 113,24,2026-10-27T13:02:50Z,A contract signed on 24 November 2026 has a 29-day settlement period. On what date does it settle?,22 January 2027,24 December 2026,16 December 2026,23 December 2026
 113,25,2026-10-27T13:02:50Z,"Fixed costs are $76,000.00. Each unit sells for $39.00 with a variable cost of $24.00. How many units must be sold to break even, to the nearest unit?","1,206 units","1,949 units","5,067 units","3,167 units"
+114,1,2026-10-27T14:02:49Z,"A $8,730.00 marketing budget is split between two channels in the ratio 4:3. What does the first channel receive?","$11,640.00","$1,247.14","$4,988.57","$3,741.43"
+114,2,2026-10-27T14:02:49Z,Region A had 52 orders averaging $22.00; region B had 67 orders averaging $77.00. What is the overall average order value?,49.50,46.03,94.07,52.97
+114,3,2026-10-27T14:02:49Z,"A product line generates $5,000.00 in revenue against $2,254.74 in cost of goods sold. What is the gross margin?",45.1%,54.9%,37.8%,121.8%
+114,4,2026-10-27T14:02:49Z,"A product line generates $19,250.00 in revenue against $15,518.38 in cost of goods sold. What is the gross margin?",10.7%,19.4%,24.0%,80.6%
+114,5,2026-10-27T14:02:49Z,"A product line generates $40,000.00 in revenue against $26,412.51 in cost of goods sold. What is the gross margin?",34.0%,51.4%,20.5%,66.0%
+114,6,2026-10-27T14:02:49Z,"An investment of $17,500.00 grows at 10% compounded annually. What is its value after 3 years?","$23,292.50","$21,175.00","$5,250.00","$22,750.00"
+114,7,2026-10-27T14:02:49Z,"A product line generates $55,000.00 in revenue against $30,412.11 in cost of goods sold. What is the gross margin?",55.3%,44.7%,28.8%,80.8%
+114,8,2026-10-27T14:02:49Z,"An investment of $43,000.00 grows at 7% compounded annually. What is its value after 8 years?","$24,080.00","$67,080.00","$69,048.60","$73,882.01"
+114,9,2026-10-27T14:02:49Z,"An investment of $9,000.00 grows at 15% compounded annually. What is its value after 8 years?","$23,940.18","$10,800.00","$27,531.21","$19,800.00"
+114,10,2026-10-27T14:02:49Z,"An investment of $49,500.00 grows at 4% compounded annually. What is its value after 6 years?","$60,224.32","$61,380.00","$62,633.29","$11,880.00"
+114,11,2026-10-27T14:02:49Z,"Fixed costs are $5,500.00. Each unit sells for $169.00 with a variable cost of $76.00. How many units must be sold to break even, to the nearest unit?",33 units,22 units,59 units,72 units
+114,12,2026-10-27T14:02:49Z,"An invoice for $8,680.39 is converted to euros at 0.9690 euros per US dollar. How many euros is that?","8,411.30","7,543.26","9,279.34","8,958.09"
+114,13,2026-10-27T14:02:49Z,A retailer sells 154 units at $64.58 each. What is total revenue?,"$9,299.52","$9,945.32","$10,591.12","$10,099.32"
+114,14,2026-10-27T14:02:49Z,"A product line generates $83,000.00 in revenue against $57,127.12 in cost of goods sold. What is the gross margin?",45.3%,18.5%,31.2%,68.8%
+114,15,2026-10-27T14:02:49Z,"Quarterly revenue moved from $3,900.00 to $5,906.00. What is the percentage change?",151.4%,-51.4%,51.4%,34.0%
+114,16,2026-10-27T14:02:49Z,"An invoice for $7,177.68 is converted to euros at 1.6181 euros per US dollar. How many euros is that?","12,331.97","4,435.87","11,614.20","10,896.44"
+114,17,2026-10-27T14:02:49Z,Region A had 29 orders averaging $79.00; region B had 112 orders averaging $67.00. What is the overall average order value?,69.47,76.53,73.00,87.46
+114,18,2026-10-27T14:02:49Z,Region A had 48 orders averaging $73.00; region B had 28 orders averaging $93.00. What is the overall average order value?,85.63,83.00,80.37,127.25
+114,19,2026-10-27T14:02:49Z,"An invoice for $7,403.83 is converted to euros at 0.9973 euros per US dollar. How many euros is that?","8,124.22","7,383.84","6,643.46","7,423.87"
+114,20,2026-10-27T14:02:49Z,"A product line generates $54,000.00 in revenue against $37,459.67 in cost of goods sold. What is the gross margin?",44.2%,30.6%,69.4%,18.1%
+114,21,2026-10-27T14:02:49Z,"A support queue holds 17 billing tickets, 6 technical tickets and 15 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",15.8%,81.0%,60.5%,44.7%
+114,22,2026-10-27T14:02:49Z,"An investment of $19,500.00 grows at 8% compounded annually. What is its value after 5 years?","$28,651.90","$27,300.00","$7,800.00","$26,529.53"
+114,23,2026-10-27T14:02:49Z,"An investment of $23,000.00 grows at 3% compounded annually. What is its value after 3 years?","$2,070.00","$24,400.70","$25,132.72","$25,070.00"
+114,24,2026-10-27T14:02:49Z,"A monthly headcount series runs 40, 47, 54, 61, 68. If the pattern continues, what is the next value?",68,89,82,75
+114,25,2026-10-27T14:02:49Z,"A monthly headcount series runs 32, 38, 44, 50, 56. If the pattern continues, what is the next value?",74,56,62,68
