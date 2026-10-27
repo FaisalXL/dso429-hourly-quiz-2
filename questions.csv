@@ -2749,3 +2749,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 110,23,2026-10-27T10:01:40Z,Region A had 140 orders averaging $86.00; region B had 130 orders averaging $71.00. What is the overall average order value?,78.50,78.78,78.22,151.93
 110,24,2026-10-27T10:01:40Z,"A support queue holds 25 billing tickets, 18 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",52.1%,108.7%,89.6%,37.5%
 110,25,2026-10-27T10:01:40Z,"A $1,290.00 marketing budget is split between two channels in the ratio 2:4. What does the first channel receive?",$645.00,$860.00,$430.00,$215.00
+111,1,2026-10-27T11:01:41Z,Quarterly revenue moved from $750.00 to $896.00. What is the percentage change?,119.5%,-19.5%,19.5%,16.3%
+111,2,2026-10-27T11:01:41Z,"An investment of $13,000.00 grows at 10% compounded annually. What is its value after 2 years?","$15,730.00","$15,600.00","$14,300.00","$2,600.00"
+111,3,2026-10-27T11:01:41Z,"Fixed costs are $61,000.00. Each unit sells for $45.00 with a variable cost of $6.00. How many units must be sold to break even, to the nearest unit?","10,167 units","1,564 units","1,356 units","1,196 units"
+111,4,2026-10-27T11:01:41Z,Region A had 115 orders averaging $45.00; region B had 93 orders averaging $36.00. What is the overall average order value?,40.98,74.11,40.50,40.02
+111,5,2026-10-27T11:01:41Z,"An invoice for $8,642.48 is converted to euros at 1.3514 euros per US dollar. How many euros is that?","11,679.45","12,543.70","10,815.20","6,395.20"
+111,6,2026-10-27T11:01:41Z,"A support queue holds 23 billing tickets, 9 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",104.5%,20.0%,51.1%,71.1%
+111,7,2026-10-27T11:01:41Z,"A product line generates $63,250.00 in revenue against $43,090.20 in cost of goods sold. What is the gross margin?",19.0%,68.1%,31.9%,46.8%
+111,8,2026-10-27T11:01:41Z,Quarterly revenue moved from $250.00 to $345.00. What is the percentage change?,-38.0%,38.0%,27.5%,138.0%
+111,9,2026-10-27T11:01:41Z,"A $8,010.00 marketing budget is split between two channels in the ratio 3:5. What does the first channel receive?","$1,001.25","$3,003.75","$5,006.25","$4,806.00"
+111,10,2026-10-27T11:01:41Z,"Fixed costs are $7,000.00. Each unit sells for $114.00 with a variable cost of $15.00. How many units must be sold to break even, to the nearest unit?",467 units,71 units,61 units,54 units
+111,11,2026-10-27T11:01:41Z,An item listed at $515.39 is discounted by 30%. What is the sale price?,$360.77,$670.01,$485.39,$154.62
+111,12,2026-10-27T11:01:41Z,"An investment of $35,500.00 grows at 11% compounded annually. What is its value after 3 years?","$11,715.00","$43,739.55","$48,550.90","$47,215.00"
+111,13,2026-10-27T11:01:41Z,"A product line generates $85,000.00 in revenue against $46,095.51 in cost of goods sold. What is the gross margin?",84.4%,29.7%,54.2%,45.8%
+111,14,2026-10-27T11:01:41Z,"Quarterly revenue moved from $2,950.00 to $4,149.00. What is the percentage change?",140.6%,-40.6%,40.6%,28.9%
+111,15,2026-10-27T11:01:41Z,"Fixed costs are $22,500.00. Each unit sells for $191.00 with a variable cost of $150.00. How many units must be sold to break even, to the nearest unit?",150 units,66 units,549 units,118 units
+111,16,2026-10-27T11:01:41Z,An item listed at $333.34 is discounted by 30%. What is the sale price?,$303.34,$433.34,$233.34,$100.00
+111,17,2026-10-27T11:01:41Z,"Quarterly revenue moved from $850.00 to $1,312.00. What is the percentage change?",154.4%,35.2%,54.4%,-54.4%
+111,18,2026-10-27T11:01:41Z,Region A had 169 orders averaging $26.00; region B had 127 orders averaging $45.00. What is the overall average order value?,34.15,36.85,35.50,59.82
+111,19,2026-10-27T11:01:41Z,A retailer sells 527 units at $21.63 each. What is total revenue?,"$11,926.01","$11,182.71","$11,399.01","$11,615.31"
+111,20,2026-10-27T11:01:41Z,Quarterly revenue moved from $250.00 to $356.00. What is the percentage change?,142.4%,29.8%,42.4%,-42.4%
+111,21,2026-10-27T11:01:41Z,"Quarterly revenue moved from $2,350.00 to $1,839.00. What is the percentage change?",21.7%,-27.8%,78.3%,-21.7%
+111,22,2026-10-27T11:01:41Z,Region A had 174 orders averaging $47.00; region B had 144 orders averaging $35.00. What is the overall average order value?,41.00,41.57,75.97,40.43
+111,23,2026-10-27T11:01:41Z,"Fixed costs are $15,000.00. Each unit sells for $171.00 with a variable cost of $113.00. How many units must be sold to break even, to the nearest unit?",259 units,88 units,133 units,53 units
+111,24,2026-10-27T11:01:41Z,"A product line generates $17,250.00 in revenue against $12,480.52 in cost of goods sold. What is the gross margin?",27.6%,72.4%,16.0%,38.2%
+111,25,2026-10-27T11:01:41Z,Region A had 10 orders averaging $82.00; region B had 155 orders averaging $69.00. What is the overall average order value?,75.50,74.29,81.21,69.79
