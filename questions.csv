@@ -2499,3 +2499,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 100,23,2026-10-27T00:01:40Z,Region A had 64 orders averaging $68.00; region B had 171 orders averaging $69.00. What is the overall average order value?,68.50,68.73,68.27,94.45
 100,24,2026-10-27T00:01:40Z,"A $1,410.00 marketing budget is split between two channels in the ratio 5:8. What does the first channel receive?",$867.69,$108.46,$881.25,$542.31
 100,25,2026-10-27T00:01:40Z,Region A had 165 orders averaging $45.00; region B had 26 orders averaging $54.00. What is the overall average order value?,53.51,52.77,49.50,46.23
+101,1,2026-10-27T01:01:54Z,Region A had 37 orders averaging $40.00; region B had 41 orders averaging $94.00. What is the overall average order value?,65.62,67.00,130.10,68.38
+101,2,2026-10-27T01:01:54Z,A contract signed on 11 April 2026 has a 68-day settlement period. On what date does it settle?,18 July 2026,19 June 2026,18 June 2026,11 June 2026
+101,3,2026-10-27T01:01:54Z,"An invoice for $2,667.25 is converted to euros at 1.3637 euros per US dollar. How many euros is that?","3,637.33","3,370.60","1,955.89","3,904.05"
+101,4,2026-10-27T01:01:54Z,"A product line generates $66,500.00 in revenue against $42,700.00 in cost of goods sold. What is the gross margin?",64.2%,55.7%,35.8%,21.8%
+101,5,2026-10-27T01:01:54Z,"A support queue holds 11 billing tickets, 17 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",45.9%,75.7%,42.3%,29.7%
+101,6,2026-10-27T01:01:54Z,An invoice for $154.51 is converted to euros at 1.7067 euros per US dollar. How many euros is that?,263.70,248.25,90.53,279.15
+101,7,2026-10-27T01:01:54Z,Region A had 46 orders averaging $62.00; region B had 30 orders averaging $36.00. What is the overall average order value?,85.48,46.26,49.00,51.74
+101,8,2026-10-27T01:01:54Z,"A support queue holds 5 billing tickets, 21 technical tickets and 10 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",13.9%,16.1%,72.2%,58.3%
+101,9,2026-10-27T01:01:54Z,"A support queue holds 22 billing tickets, 6 technical tickets and 10 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",15.8%,57.9%,137.5%,73.7%
+101,10,2026-10-27T01:01:54Z,"An investment of $13,000.00 grows at 13% compounded annually. What is its value after 8 years?","$30,583.87","$13,520.00","$26,520.00","$34,559.77"
+101,11,2026-10-27T01:01:54Z,"Fixed costs are $7,500.00. Each unit sells for $138.00 with a variable cost of $120.00. How many units must be sold to break even, to the nearest unit?",417 units,29 units,54 units,62 units
+101,12,2026-10-27T01:01:54Z,"Fixed costs are $70,000.00. Each unit sells for $45.00 with a variable cost of $6.00. How many units must be sold to break even, to the nearest unit?","1,373 units","1,556 units","1,795 units","11,667 units"
+101,13,2026-10-27T01:01:54Z,Region A had 168 orders averaging $28.00; region B had 111 orders averaging $54.00. What is the overall average order value?,38.34,41.00,43.66,63.68
+101,14,2026-10-27T01:01:54Z,A contract signed on 10 October 2026 has a 244-day settlement period. On what date does it settle?,4 June 2027,12 June 2027,11 July 2027,11 June 2027
+101,15,2026-10-27T01:01:54Z,An item listed at $659.74 is discounted by 40%. What is the sale price?,$263.90,$395.84,$923.64,$619.74
+101,16,2026-10-27T01:01:54Z,Region A had 55 orders averaging $87.00; region B had 79 orders averaging $41.00. What is the overall average order value?,59.88,101.57,64.00,68.12
+101,17,2026-10-27T01:01:54Z,A retailer sells 205 units at $32.71 each. What is total revenue?,"$7,032.65","$6,705.55","$6,910.55","$6,378.45"
+101,18,2026-10-27T01:01:54Z,"A product line generates $30,750.00 in revenue against $27,328.28 in cost of goods sold. What is the gross margin?",11.1%,88.9%,12.5%,5.9%
+101,19,2026-10-27T01:01:54Z,"A monthly headcount series runs 29, 32, 35, 38, 41. If the pattern continues, what is the next value?",50,47,44,41
+101,20,2026-10-27T01:01:54Z,A contract signed on 29 May 2026 has a 157-day settlement period. On what date does it settle?,3 November 2026,26 October 2026,2 November 2026,2 December 2026
+101,21,2026-10-27T01:01:54Z,Region A had 96 orders averaging $40.00; region B had 50 orders averaging $61.00. What is the overall average order value?,50.50,47.19,53.81,71.77
+101,22,2026-10-27T01:01:54Z,"Fixed costs are $31,000.00. Each unit sells for $154.00 with a variable cost of $75.00. How many units must be sold to break even, to the nearest unit?",135 units,201 units,392 units,413 units
+101,23,2026-10-27T01:01:54Z,"An invoice for $7,244.09 is converted to euros at 1.1276 euros per US dollar. How many euros is that?","7,444.03","6,424.34","8,168.44","8,892.84"
+101,24,2026-10-27T01:01:54Z,Region A had 137 orders averaging $66.00; region B had 176 orders averaging $52.00. What is the overall average order value?,103.38,59.87,59.00,58.13
+101,25,2026-10-27T01:01:54Z,A $870.00 marketing budget is split between two channels in the ratio 2:7. What does the first channel receive?,$676.67,$193.33,$96.67,$248.57
