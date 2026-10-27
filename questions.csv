@@ -2474,3 +2474,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 99,23,2026-10-26T23:01:40Z,An item listed at $263.05 is discounted by 45%. What is the sale price?,$144.68,$218.05,$118.37,$381.42
 99,24,2026-10-26T23:01:40Z,"Quarterly revenue moved from $3,950.00 to $5,498.00. What is the percentage change?",-39.2%,39.2%,28.2%,139.2%
 99,25,2026-10-26T23:01:40Z,"An invoice for $7,641.82 is converted to euros at 1.0720 euros per US dollar. How many euros is that?","8,192.03","7,427.85","8,956.21","7,128.56"
+100,1,2026-10-27T00:01:40Z,"A support queue holds 13 billing tickets, 3 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",48.1%,92.9%,11.1%,59.3%
+100,2,2026-10-27T00:01:40Z,A $600.00 marketing budget is split between two channels in the ratio 8:5. What does the first channel receive?,$230.77,$960.00,$369.23,$46.15
+100,3,2026-10-27T00:01:40Z,An item listed at $675.16 is discounted by 30%. What is the sale price?,$202.55,$472.61,$645.16,$877.71
+100,4,2026-10-27T00:01:40Z,A contract signed on 30 March 2026 has a 40-day settlement period. On what date does it settle?,8 June 2026,2 May 2026,9 May 2026,10 May 2026
+100,5,2026-10-27T00:01:40Z,"Fixed costs are $8,500.00. Each unit sells for $164.00 with a variable cost of $107.00. How many units must be sold to break even, to the nearest unit?",149 units,52 units,79 units,31 units
+100,6,2026-10-27T00:01:40Z,A contract signed on 10 May 2026 has a 372-day settlement period. On what date does it settle?,17 May 2027,16 June 2027,18 May 2027,10 May 2027
+100,7,2026-10-27T00:01:40Z,"An investment of $39,000.00 grows at 10% compounded annually. What is its value after 4 years?","$15,600.00","$57,099.90","$51,909.00","$54,600.00"
+100,8,2026-10-27T00:01:40Z,"A product line generates $18,500.00 in revenue against $8,807.92 in cost of goods sold. What is the gross margin?",35.5%,110.0%,47.6%,52.4%
+100,9,2026-10-27T00:01:40Z,A contract signed on 4 September 2026 has a 100-day settlement period. On what date does it settle?,14 December 2026,6 December 2026,13 December 2026,12 January 2027
+100,10,2026-10-27T00:01:40Z,"An investment of $29,500.00 grows at 13% compounded annually. What is its value after 4 years?","$48,098.97","$42,565.46","$15,340.00","$44,840.00"
+100,11,2026-10-27T00:01:40Z,"A product line generates $17,250.00 in revenue against $12,135.01 in cost of goods sold. What is the gross margin?",42.2%,70.3%,17.4%,29.7%
+100,12,2026-10-27T00:01:40Z,"An investment of $27,000.00 grows at 6% compounded annually. What is its value after 3 years?","$30,337.20","$31,860.00","$32,157.43","$4,860.00"
+100,13,2026-10-27T00:01:40Z,"Fixed costs are $9,000.00. Each unit sells for $136.00 with a variable cost of $52.00. How many units must be sold to break even, to the nearest unit?",107 units,66 units,48 units,173 units
+100,14,2026-10-27T00:01:40Z,"Fixed costs are $54,000.00. Each unit sells for $164.00 with a variable cost of $73.00. How many units must be sold to break even, to the nearest unit?",228 units,329 units,740 units,593 units
+100,15,2026-10-27T00:01:40Z,A contract signed on 12 November 2026 has a 383-day settlement period. On what date does it settle?,30 December 2027,30 November 2027,1 December 2027,23 November 2027
+100,16,2026-10-27T00:01:40Z,"An invoice for $6,678.55 is converted to euros at 0.6953 euros per US dollar. How many euros is that?","4,643.60","3,975.74","5,311.45","9,605.28"
+100,17,2026-10-27T00:01:40Z,"Fixed costs are $77,000.00. Each unit sells for $32.00 with a variable cost of $19.00. How many units must be sold to break even, to the nearest unit?","2,406 units","4,053 units","1,510 units","5,923 units"
+100,18,2026-10-27T00:01:40Z,"A support queue holds 10 billing tickets, 17 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",35.7%,26.3%,44.7%,71.1%
+100,19,2026-10-27T00:01:40Z,An item listed at $127.04 is discounted by 45%. What is the sale price?,$57.17,$82.04,$69.87,$184.21
+100,20,2026-10-27T00:01:40Z,"An investment of $39,500.00 grows at 10% compounded annually. What is its value after 7 years?","$67,150.00","$69,976.66","$27,650.00","$76,974.33"
+100,21,2026-10-27T00:01:40Z,A contract signed on 12 January 2026 has a 126-day settlement period. On what date does it settle?,19 May 2026,17 June 2026,18 May 2026,11 May 2026
+100,22,2026-10-27T00:01:40Z,"A product line generates $26,250.00 in revenue against $22,725.47 in cost of goods sold. What is the gross margin?",13.4%,86.6%,15.5%,7.2%
+100,23,2026-10-27T00:01:40Z,Region A had 64 orders averaging $68.00; region B had 171 orders averaging $69.00. What is the overall average order value?,68.50,68.73,68.27,94.45
+100,24,2026-10-27T00:01:40Z,"A $1,410.00 marketing budget is split between two channels in the ratio 5:8. What does the first channel receive?",$867.69,$108.46,$881.25,$542.31
+100,25,2026-10-27T00:01:40Z,Region A had 165 orders averaging $45.00; region B had 26 orders averaging $54.00. What is the overall average order value?,53.51,52.77,49.50,46.23
