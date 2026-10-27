@@ -2999,3 +2999,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 120,23,2026-10-27T20:01:42Z,"A product line generates $43,500.00 in revenue against $34,631.59 in cost of goods sold. What is the gross margin?",11.4%,20.4%,79.6%,25.6%
 120,24,2026-10-27T20:01:42Z,"An investment of $15,000.00 grows at 5% compounded annually. What is its value after 7 years?","$5,250.00","$21,106.51","$20,250.00","$20,101.43"
 120,25,2026-10-27T20:01:42Z,"An invoice for $5,693.58 is converted to euros at 0.7034 euros per US dollar. How many euros is that?","4,574.22","3,435.51","8,094.37","4,004.86"
+121,1,2026-10-27T21:01:40Z,"Quarterly revenue moved from $2,150.00 to $1,934.00. What is the percentage change?",90.0%,10.0%,-11.2%,-10.0%
+121,2,2026-10-27T21:01:40Z,"A product line generates $74,500.00 in revenue against $54,608.56 in cost of goods sold. What is the gross margin?",15.4%,73.3%,36.4%,26.7%
+121,3,2026-10-27T21:01:40Z,"Quarterly revenue moved from $3,950.00 to $5,092.00. What is the percentage change?",128.9%,-28.9%,22.4%,28.9%
+121,4,2026-10-27T21:01:40Z,"Fixed costs are $72,500.00. Each unit sells for $50.00 with a variable cost of $6.00. How many units must be sold to break even, to the nearest unit?","1,648 units","1,295 units","1,450 units","12,083 units"
+121,5,2026-10-27T21:01:40Z,"An investment of $7,000.00 grows at 7% compounded annually. What is its value after 6 years?","$10,505.11","$9,817.86","$9,940.00","$2,940.00"
+121,6,2026-10-27T21:01:40Z,"Fixed costs are $10,500.00. Each unit sells for $47.00 with a variable cost of $17.00. How many units must be sold to break even, to the nearest unit?",164 units,223 units,350 units,618 units
+121,7,2026-10-27T21:01:40Z,Region A had 71 orders averaging $88.00; region B had 53 orders averaging $52.00. What is the overall average order value?,70.00,67.39,126.82,72.61
+121,8,2026-10-27T21:01:40Z,A contract signed on 20 June 2026 has a 365-day settlement period. On what date does it settle?,20 July 2027,20 June 2027,21 June 2027,13 June 2027
+121,9,2026-10-27T21:01:40Z,Region A had 17 orders averaging $91.00; region B had 83 orders averaging $74.00. What is the overall average order value?,82.50,76.89,88.11,92.64
+121,10,2026-10-27T21:01:40Z,"Quarterly revenue moved from $2,750.00 to $3,839.00. What is the percentage change?",39.6%,-39.6%,28.4%,139.6%
+121,11,2026-10-27T21:01:40Z,"An invoice for $2,523.18 is converted to euros at 0.9843 euros per US dollar. How many euros is that?","2,735.88","2,231.25","2,563.43","2,483.57"
+121,12,2026-10-27T21:01:40Z,Region A had 103 orders averaging $31.00; region B had 187 orders averaging $73.00. What is the overall average order value?,45.92,90.07,58.08,52.00
+121,13,2026-10-27T21:01:40Z,"An invoice for $7,911.48 is converted to euros at 0.6568 euros per US dollar. How many euros is that?","4,405.11","12,045.49","5,196.26","5,987.41"
+121,14,2026-10-27T21:01:40Z,A retailer sells 665 units at $57.53 each. What is total revenue?,"$37,682.15","$38,257.45","$38,832.75","$38,922.45"
+121,15,2026-10-27T21:01:40Z,"An investment of $48,000.00 grows at 7% compounded annually. What is its value after 2 years?","$51,360.00","$54,720.00","$54,955.20","$6,720.00"
+121,16,2026-10-27T21:01:40Z,"A monthly headcount series runs 36, 41, 46, 51, 56. If the pattern continues, what is the next value?",61,56,71,66
+121,17,2026-10-27T21:01:40Z,"Fixed costs are $5,500.00. Each unit sells for $93.00 with a variable cost of $6.00. How many units must be sold to break even, to the nearest unit?",59 units,917 units,63 units,56 units
+121,18,2026-10-27T21:01:40Z,"A support queue holds 11 billing tickets, 12 technical tickets and 7 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",57.9%,76.7%,40.0%,36.7%
+121,19,2026-10-27T21:01:40Z,Region A had 167 orders averaging $24.00; region B had 62 orders averaging $91.00. What is the overall average order value?,57.50,72.86,57.78,42.14
+121,20,2026-10-27T21:01:40Z,Region A had 109 orders averaging $69.00; region B had 146 orders averaging $39.00. What is the overall average order value?,54.00,56.18,90.51,51.82
+121,21,2026-10-27T21:01:40Z,An invoice for $152.98 is converted to euros at 1.0494 euros per US dollar. How many euros is that?,175.84,145.24,160.54,145.78
+121,22,2026-10-27T21:01:40Z,"A support queue holds 12 billing tickets, 13 technical tickets and 4 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",86.2%,44.8%,41.4%,70.6%
+121,23,2026-10-27T21:01:40Z,A retailer sells 702 units at $84.23 each. What is total revenue?,"$58,287.16","$59,971.76","$59,129.46","$59,831.46"
+121,24,2026-10-27T21:01:40Z,"An invoice for $7,357.07 is converted to euros at 1.0130 euros per US dollar. How many euros is that?","6,717.00","7,262.66","7,452.71","8,188.42"
+121,25,2026-10-27T21:01:40Z,An item listed at $557.53 is discounted by 5%. What is the sale price?,$529.65,$552.53,$27.88,$585.41
