@@ -3649,3 +3649,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 146,23,2026-10-28T22:01:39Z,"Quarterly revenue moved from $4,800.00 to $4,288.00. What is the percentage change?",-11.9%,10.7%,89.3%,-10.7%
 146,24,2026-10-28T22:01:39Z,"An invoice for $3,794.18 is converted to euros at 1.0117 euros per US dollar. How many euros is that?","3,750.30","3,838.57","3,459.15","4,217.99"
 146,25,2026-10-28T22:01:39Z,"A support queue holds 25 billing tickets, 21 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",43.9%,78.1%,80.7%,36.8%
+147,1,2026-10-28T23:01:38Z,A contract signed on 25 January 2026 has a 56-day settlement period. On what date does it settle?,21 April 2026,22 March 2026,23 March 2026,15 March 2026
+147,2,2026-10-28T23:01:38Z,"An invoice for $7,352.50 is converted to euros at 1.4951 euros per US dollar. How many euros is that?","11,727.97","4,917.73","10,257.47","10,992.72"
+147,3,2026-10-28T23:01:38Z,"Fixed costs are $20,000.00. Each unit sells for $73.00 with a variable cost of $44.00. How many units must be sold to break even, to the nearest unit?",171 units,690 units,274 units,455 units
+147,4,2026-10-28T23:01:38Z,"Fixed costs are $26,000.00. Each unit sells for $135.00 with a variable cost of $105.00. How many units must be sold to break even, to the nearest unit?",108 units,248 units,867 units,193 units
+147,5,2026-10-28T23:01:38Z,"Fixed costs are $8,000.00. Each unit sells for $124.00 with a variable cost of $89.00. How many units must be sold to break even, to the nearest unit?",65 units,90 units,38 units,229 units
+147,6,2026-10-28T23:01:38Z,Region A had 24 orders averaging $92.00; region B had 106 orders averaging $44.00. What is the overall average order value?,68.00,64.83,52.86,83.14
+147,7,2026-10-28T23:01:38Z,A retailer sells 245 units at $60.25 each. What is total revenue?,"$15,363.75","$14,761.25","$15,006.25","$14,158.75"
+147,8,2026-10-28T23:01:38Z,A contract signed on 8 May 2026 has a 206-day settlement period. On what date does it settle?,23 November 2026,1 December 2026,30 December 2026,30 November 2026
+147,9,2026-10-28T23:01:38Z,An item listed at $282.93 is discounted by 5%. What is the sale price?,$297.08,$277.93,$14.15,$268.78
+147,10,2026-10-28T23:01:38Z,"Fixed costs are $11,500.00. Each unit sells for $124.00 with a variable cost of $88.00. How many units must be sold to break even, to the nearest unit?",319 units,93 units,54 units,131 units
+147,11,2026-10-28T23:01:38Z,"A monthly headcount series runs 15, 26, 37, 48, 59. If the pattern continues, what is the next value?",81,59,70,92
+147,12,2026-10-28T23:01:38Z,A contract signed on 4 February 2026 has a 315-day settlement period. On what date does it settle?,9 December 2026,17 December 2026,15 January 2027,16 December 2026
+147,13,2026-10-28T23:01:38Z,Region A had 11 orders averaging $27.00; region B had 188 orders averaging $73.00. What is the overall average order value?,29.54,70.46,74.58,50.00
+147,14,2026-10-28T23:01:38Z,"Fixed costs are $8,500.00. Each unit sells for $113.00 with a variable cost of $19.00. How many units must be sold to break even, to the nearest unit?",64 units,75 units,90 units,447 units
+147,15,2026-10-28T23:01:38Z,"Fixed costs are $39,500.00. Each unit sells for $110.00 with a variable cost of $45.00. How many units must be sold to break even, to the nearest unit?",359 units,255 units,608 units,878 units
+147,16,2026-10-28T23:01:38Z,"A support queue holds 18 billing tickets, 20 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",54.5%,39.2%,35.3%,74.5%
+147,17,2026-10-28T23:01:38Z,Region A had 101 orders averaging $75.00; region B had 87 orders averaging $80.00. What is the overall average order value?,77.50,143.91,77.31,77.69
+147,18,2026-10-28T23:01:38Z,A contract signed on 9 December 2026 has a 185-day settlement period. On what date does it settle?,5 June 2027,12 July 2027,13 June 2027,12 June 2027
+147,19,2026-10-28T23:01:38Z,"An invoice for $2,138.30 is converted to euros at 1.6657 euros per US dollar. How many euros is that?","3,347.94","3,561.77","1,283.72","3,775.60"
+147,20,2026-10-28T23:01:38Z,Region A had 168 orders averaging $57.00; region B had 174 orders averaging $58.00. What is the overall average order value?,113.03,57.50,57.51,57.49
+147,21,2026-10-28T23:01:38Z,"A support queue holds 13 billing tickets, 7 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",108.3%,28.0%,80.0%,52.0%
+147,22,2026-10-28T23:01:38Z,"A support queue holds 17 billing tickets, 19 technical tickets and 14 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",38.0%,72.0%,34.0%,51.5%
+147,23,2026-10-28T23:01:38Z,"Quarterly revenue moved from $3,550.00 to $3,190.00. What is the percentage change?",89.9%,-11.3%,-10.1%,10.1%
+147,24,2026-10-28T23:01:38Z,"A product line generates $83,750.00 in revenue against $46,384.67 in cost of goods sold. What is the gross margin?",55.4%,80.6%,28.7%,44.6%
+147,25,2026-10-28T23:01:38Z,"Quarterly revenue moved from $3,700.00 to $2,390.00. What is the percentage change?",-54.8%,-35.4%,35.4%,64.6%
