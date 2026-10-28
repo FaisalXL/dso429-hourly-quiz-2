@@ -3574,3 +3574,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 143,23,2026-10-28T19:01:39Z,"An investment of $21,500.00 grows at 6% compounded annually. What is its value after 3 years?","$24,157.40","$3,870.00","$25,370.00","$25,606.84"
 143,24,2026-10-28T19:01:39Z,"An invoice for $8,007.99 is converted to euros at 1.4120 euros per US dollar. How many euros is that?","5,671.38","11,307.28","10,506.48","12,108.08"
 143,25,2026-10-28T19:01:39Z,"A product line generates $57,750.00 in revenue against $28,631.38 in cost of goods sold. What is the gross margin?",101.7%,50.4%,49.6%,33.7%
+144,1,2026-10-28T20:01:39Z,"A product line generates $55,500.00 in revenue against $43,703.13 in cost of goods sold. What is the gross margin?",11.9%,78.7%,27.0%,21.3%
+144,2,2026-10-28T20:01:39Z,"An investment of $40,000.00 grows at 3% compounded annually. What is its value after 4 years?","$43,709.08","$45,020.35","$44,800.00","$4,800.00"
+144,3,2026-10-28T20:01:39Z,A contract signed on 23 July 2026 has a 106-day settlement period. On what date does it settle?,6 December 2026,7 November 2026,6 November 2026,30 October 2026
+144,4,2026-10-28T20:01:39Z,A contract signed on 15 October 2026 has a 163-day settlement period. On what date does it settle?,27 March 2027,20 March 2027,28 March 2027,26 April 2027
+144,5,2026-10-28T20:01:39Z,"An investment of $7,500.00 grows at 12% compounded annually. What is its value after 7 years?","$14,803.67","$16,580.11","$6,300.00","$13,800.00"
+144,6,2026-10-28T20:01:39Z,An item listed at $262.79 is discounted by 25%. What is the sale price?,$237.79,$197.09,$65.70,$328.49
+144,7,2026-10-28T20:01:39Z,"A product line generates $42,250.00 in revenue against $20,080.09 in cost of goods sold. What is the gross margin?",52.5%,47.5%,110.4%,35.6%
+144,8,2026-10-28T20:01:39Z,A retailer sells 774 units at $80.87 each. What is total revenue?,"$63,402.08","$63,367.38","$61,784.68","$62,593.38"
+144,9,2026-10-28T20:01:39Z,"A product line generates $49,250.00 in revenue against $40,093.01 in cost of goods sold. What is the gross margin?",18.6%,81.4%,22.8%,10.2%
+144,10,2026-10-28T20:01:39Z,"An investment of $16,500.00 grows at 15% compounded annually. What is its value after 7 years?","$38,165.50","$17,325.00","$33,825.00","$43,890.33"
+144,11,2026-10-28T20:01:39Z,"Fixed costs are $77,500.00. Each unit sells for $190.00 with a variable cost of $91.00. How many units must be sold to break even, to the nearest unit?",783 units,408 units,276 units,852 units
+144,12,2026-10-28T20:01:39Z,A contract signed on 9 March 2026 has a 93-day settlement period. On what date does it settle?,3 June 2026,10 July 2026,10 June 2026,11 June 2026
+144,13,2026-10-28T20:01:39Z,A contract signed on 26 April 2026 has a 62-day settlement period. On what date does it settle?,27 June 2026,20 June 2026,28 June 2026,27 July 2026
+144,14,2026-10-28T20:01:39Z,"A support queue holds 20 billing tickets, 23 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",47.9%,41.7%,89.6%,71.4%
+144,15,2026-10-28T20:01:39Z,"Fixed costs are $21,500.00. Each unit sells for $57.00 with a variable cost of $33.00. How many units must be sold to break even, to the nearest unit?",896 units,377 units,239 units,652 units
+144,16,2026-10-28T20:01:39Z,"Fixed costs are $48,000.00. Each unit sells for $179.00 with a variable cost of $50.00. How many units must be sold to break even, to the nearest unit?",372 units,268 units,960 units,210 units
+144,17,2026-10-28T20:01:39Z,"A support queue holds 20 billing tickets, 12 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",87.0%,46.5%,27.9%,74.4%
+144,18,2026-10-28T20:01:39Z,"A support queue holds 17 billing tickets, 4 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",100.0%,61.8%,50.0%,11.8%
+144,19,2026-10-28T20:01:39Z,A contract signed on 18 June 2026 has a 374-day settlement period. On what date does it settle?,20 June 2027,27 June 2027,27 July 2027,28 June 2027
+144,20,2026-10-28T20:01:39Z,"An investment of $27,500.00 grows at 15% compounded annually. What is its value after 4 years?","$48,097.67","$41,824.06","$16,500.00","$44,000.00"
+144,21,2026-10-28T20:01:39Z,"Quarterly revenue moved from $4,350.00 to $5,034.00. What is the percentage change?",115.7%,13.6%,-15.7%,15.7%
+144,22,2026-10-28T20:01:39Z,"Fixed costs are $34,500.00. Each unit sells for $149.00 with a variable cost of $40.00. How many units must be sold to break even, to the nearest unit?",862 units,317 units,183 units,232 units
+144,23,2026-10-28T20:01:39Z,A retailer sells 577 units at $78.63 each. What is total revenue?,"$45,946.51","$45,369.51","$44,583.21","$46,155.81"
+144,24,2026-10-28T20:01:39Z,Region A had 129 orders averaging $61.00; region B had 39 orders averaging $88.00. What is the overall average order value?,74.50,67.27,81.73,87.60
+144,25,2026-10-28T20:01:39Z,Region A had 179 orders averaging $56.00; region B had 188 orders averaging $91.00. What is the overall average order value?,73.07,144.32,73.50,73.93
