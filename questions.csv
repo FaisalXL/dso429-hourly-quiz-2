@@ -3499,3 +3499,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 140,23,2026-10-28T16:01:42Z,A contract signed on 10 November 2026 has a 383-day settlement period. On what date does it settle?,21 November 2027,28 November 2027,29 November 2027,28 December 2027
 140,24,2026-10-28T16:01:42Z,"An investment of $37,500.00 grows at 7% compounded annually. What is its value after 7 years?","$56,277.39","$55,875.00","$60,216.81","$18,375.00"
 140,25,2026-10-28T16:01:42Z,"A monthly headcount series runs 9, 25, 41, 57, 73. If the pattern continues, what is the next value?",105,73,89,121
+141,1,2026-10-28T17:01:42Z,"Fixed costs are $48,500.00. Each unit sells for $189.00 with a variable cost of $117.00. How many units must be sold to break even, to the nearest unit?",158 units,674 units,415 units,257 units
+141,2,2026-10-28T17:01:42Z,"An investment of $21,500.00 grows at 15% compounded annually. What is its value after 3 years?","$9,675.00","$28,433.75","$32,698.81","$31,175.00"
+141,3,2026-10-28T17:01:42Z,"A support queue holds 12 billing tickets, 14 technical tickets and 14 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",42.9%,35.0%,65.0%,30.0%
+141,4,2026-10-28T17:01:42Z,"Quarterly revenue moved from $2,000.00 to $1,792.00. What is the percentage change?",10.4%,-10.4%,89.6%,-11.6%
+141,5,2026-10-28T17:01:42Z,"A $8,520.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$5,112.00","$3,408.00","$12,780.00","$1,704.00"
+141,6,2026-10-28T17:01:42Z,"Fixed costs are $36,500.00. Each unit sells for $137.00 with a variable cost of $96.00. How many units must be sold to break even, to the nearest unit?",157 units,890 units,380 units,266 units
+141,7,2026-10-28T17:01:42Z,"A product line generates $88,250.00 in revenue against $51,382.78 in cost of goods sold. What is the gross margin?",71.8%,58.2%,26.4%,41.8%
+141,8,2026-10-28T17:01:42Z,"A support queue holds 9 billing tickets, 24 technical tickets and 8 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",58.5%,22.0%,80.5%,28.1%
+141,9,2026-10-28T17:01:42Z,"An investment of $42,000.00 grows at 9% compounded annually. What is its value after 2 years?","$45,780.00","$49,900.20","$49,560.00","$7,560.00"
+141,10,2026-10-28T17:01:42Z,"An invoice for $7,916.94 is converted to euros at 1.0224 euros per US dollar. How many euros is that?","8,885.97","7,743.49","7,302.59","8,094.28"
+141,11,2026-10-28T17:01:42Z,"Quarterly revenue moved from $4,200.00 to $2,774.00. What is the percentage change?",-34.0%,34.0%,66.0%,-51.4%
+141,12,2026-10-28T17:01:42Z,"Fixed costs are $27,000.00. Each unit sells for $188.00 with a variable cost of $41.00. How many units must be sold to break even, to the nearest unit?",118 units,144 units,659 units,184 units
+141,13,2026-10-28T17:01:42Z,"Fixed costs are $61,500.00. Each unit sells for $51.00 with a variable cost of $5.00. How many units must be sold to break even, to the nearest unit?","1,337 units","1,206 units","1,098 units","12,300 units"
+141,14,2026-10-28T17:01:42Z,"A product line generates $32,750.00 in revenue against $25,428.83 in cost of goods sold. What is the gross margin?",28.8%,22.4%,77.6%,12.6%
+141,15,2026-10-28T17:01:42Z,"Quarterly revenue moved from $1,400.00 to $1,986.00. What is the percentage change?",29.5%,-41.9%,141.9%,41.9%
+141,16,2026-10-28T17:01:42Z,"An investment of $21,500.00 grows at 10% compounded annually. What is its value after 4 years?","$30,100.00","$8,600.00","$31,478.15","$28,616.50"
+141,17,2026-10-28T17:01:42Z,"A monthly headcount series runs 15, 21, 27, 33, 39. If the pattern continues, what is the next value?",51,39,57,45
+141,18,2026-10-28T17:01:42Z,"A monthly headcount series runs 30, 36, 42, 48, 54. If the pattern continues, what is the next value?",72,54,66,60
+141,19,2026-10-28T17:01:42Z,"A product line generates $70,750.00 in revenue against $58,556.67 in cost of goods sold. What is the gross margin?",9.4%,20.8%,17.2%,82.8%
+141,20,2026-10-28T17:01:42Z,Region A had 183 orders averaging $40.00; region B had 103 orders averaging $92.00. What is the overall average order value?,58.73,91.78,66.00,73.27
+141,21,2026-10-28T17:01:42Z,"Fixed costs are $76,500.00. Each unit sells for $37.00 with a variable cost of $25.00. How many units must be sold to break even, to the nearest unit?","2,068 units","3,060 units","1,234 units","6,375 units"
+141,22,2026-10-28T17:01:42Z,A contract signed on 15 November 2026 has a 202-day settlement period. On what date does it settle?,6 June 2027,5 June 2027,5 July 2027,29 May 2027
+141,23,2026-10-28T17:01:42Z,A contract signed on 22 April 2026 has a 328-day settlement period. On what date does it settle?,17 March 2027,16 March 2027,15 April 2027,9 March 2027
+141,24,2026-10-28T17:01:42Z,"An invoice for $4,763.97 is converted to euros at 1.6443 euros per US dollar. How many euros is that?","7,833.40","2,897.26","7,357.00","8,309.79"
+141,25,2026-10-28T17:01:42Z,Region A had 153 orders averaging $48.00; region B had 104 orders averaging $38.00. What is the overall average order value?,42.05,73.83,43.00,43.95
