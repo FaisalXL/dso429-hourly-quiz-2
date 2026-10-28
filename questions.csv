@@ -3124,3 +3124,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 125,23,2026-10-28T01:01:38Z,"An investment of $25,500.00 grows at 8% compounded annually. What is its value after 6 years?","$37,467.87","$12,240.00","$40,465.30","$37,740.00"
 125,24,2026-10-28T01:01:38Z,Region A had 168 orders averaging $66.00; region B had 25 orders averaging $86.00. What is the overall average order value?,83.41,68.59,78.80,76.00
 125,25,2026-10-28T01:01:38Z,A contract signed on 10 March 2026 has a 14-day settlement period. On what date does it settle?,17 March 2026,23 April 2026,25 March 2026,24 March 2026
+126,1,2026-10-28T02:01:41Z,"Quarterly revenue moved from $2,150.00 to $1,671.00. What is the percentage change?",22.3%,-28.7%,77.7%,-22.3%
+126,2,2026-10-28T02:01:41Z,An item listed at $647.34 is discounted by 40%. What is the sale price?,$906.28,$388.40,$607.34,$258.94
+126,3,2026-10-28T02:01:41Z,"An invoice for $6,048.98 is converted to euros at 1.5638 euros per US dollar. How many euros is that?","10,064.29","3,868.13","8,854.50","9,459.39"
+126,4,2026-10-28T02:01:41Z,"Fixed costs are $12,000.00. Each unit sells for $65.00 with a variable cost of $47.00. How many units must be sold to break even, to the nearest unit?",255 units,185 units,107 units,667 units
+126,5,2026-10-28T02:01:41Z,"An investment of $12,000.00 grows at 9% compounded annually. What is its value after 8 years?","$20,640.00","$23,910.75","$8,640.00","$21,936.47"
+126,6,2026-10-28T02:01:41Z,A contract signed on 13 November 2026 has a 127-day settlement period. On what date does it settle?,13 March 2027,19 April 2027,20 March 2027,21 March 2027
+126,7,2026-10-28T02:01:41Z,"An invoice for $7,883.95 is converted to euros at 0.8142 euros per US dollar. How many euros is that?","7,207.51","5,630.72","9,683.06","6,419.11"
+126,8,2026-10-28T02:01:41Z,"Fixed costs are $79,000.00. Each unit sells for $183.00 with a variable cost of $100.00. How many units must be sold to break even, to the nearest unit?",432 units,952 units,279 units,790 units
+126,9,2026-10-28T02:01:41Z,An item listed at $424.07 is discounted by 10%. What is the sale price?,$381.66,$414.07,$42.41,$466.48
+126,10,2026-10-28T02:01:41Z,"A product line generates $60,250.00 in revenue against $50,694.66 in cost of goods sold. What is the gross margin?",15.9%,8.6%,84.1%,18.8%
+126,11,2026-10-28T02:01:41Z,"Fixed costs are $60,000.00. Each unit sells for $186.00 with a variable cost of $109.00. How many units must be sold to break even, to the nearest unit?",323 units,203 units,550 units,779 units
+126,12,2026-10-28T02:01:41Z,"A product line generates $31,250.00 in revenue against $25,386.30 in cost of goods sold. What is the gross margin?",23.1%,81.2%,18.8%,10.4%
+126,13,2026-10-28T02:01:41Z,"A product line generates $35,500.00 in revenue against $26,012.13 in cost of goods sold. What is the gross margin?",36.5%,26.7%,15.4%,73.3%
+126,14,2026-10-28T02:01:41Z,"Fixed costs are $73,000.00. Each unit sells for $43.00 with a variable cost of $9.00. How many units must be sold to break even, to the nearest unit?","2,147 units","1,404 units","8,111 units","1,698 units"
+126,15,2026-10-28T02:01:41Z,An item listed at $494.08 is discounted by 35%. What is the sale price?,$667.01,$172.93,$459.08,$321.15
+126,16,2026-10-28T02:01:41Z,"A product line generates $69,250.00 in revenue against $40,942.02 in cost of goods sold. What is the gross margin?",59.1%,25.7%,69.1%,40.9%
+126,17,2026-10-28T02:01:41Z,"A support queue holds 19 billing tickets, 24 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",36.5%,82.7%,46.2%,57.6%
+126,18,2026-10-28T02:01:41Z,"A support queue holds 19 billing tickets, 25 technical tickets and 15 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",32.2%,74.6%,47.5%,42.4%
+126,19,2026-10-28T02:01:41Z,"An investment of $45,000.00 grows at 13% compounded annually. What is its value after 5 years?","$73,371.31","$29,250.00","$82,909.58","$74,250.00"
+126,20,2026-10-28T02:01:41Z,"An invoice for $7,517.73 is converted to euros at 1.0375 euros per US dollar. How many euros is that?","8,551.42","7,047.87","7,246.00","7,799.64"
+126,21,2026-10-28T02:01:41Z,"Fixed costs are $23,500.00. Each unit sells for $122.00 with a variable cost of $83.00. How many units must be sold to break even, to the nearest unit?",603 units,283 units,115 units,193 units
+126,22,2026-10-28T02:01:41Z,"A monthly headcount series runs 30, 44, 58, 72, 86. If the pattern continues, what is the next value?",86,128,100,114
+126,23,2026-10-28T02:01:41Z,Region A had 155 orders averaging $43.00; region B had 49 orders averaging $57.00. What is the overall average order value?,50.00,53.64,61.02,46.36
+126,24,2026-10-28T02:01:41Z,"Fixed costs are $29,000.00. Each unit sells for $178.00 with a variable cost of $88.00. How many units must be sold to break even, to the nearest unit?",322 units,330 units,109 units,163 units
+126,25,2026-10-28T02:01:41Z,Region A had 138 orders averaging $33.00; region B had 183 orders averaging $68.00. What is the overall average order value?,50.50,92.89,52.95,48.05
