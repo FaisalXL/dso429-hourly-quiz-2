@@ -4024,3 +4024,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 161,23,2026-10-29T13:01:42Z,Region A had 95 orders averaging $89.00; region B had 123 orders averaging $87.00. What is the overall average order value?,87.87,88.00,155.74,88.13
 161,24,2026-10-29T13:01:42Z,"An invoice for $2,612.85 is converted to euros at 1.3544 euros per US dollar. How many euros is that?","1,929.16","3,277.56","3,538.84","3,800.13"
 161,25,2026-10-29T13:01:42Z,"A support queue holds 7 billing tickets, 3 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",50.0%,47.6%,14.3%,33.3%
+162,1,2026-10-29T14:01:42Z,"Quarterly revenue moved from $4,700.00 to $6,580.00. What is the percentage change?",28.6%,140.0%,-40.0%,40.0%
+162,2,2026-10-29T14:01:42Z,"A product line generates $10,250.00 in revenue against $8,023.66 in cost of goods sold. What is the gross margin?",12.2%,78.3%,21.7%,27.7%
+162,3,2026-10-29T14:01:42Z,"A $7,500.00 marketing budget is split between two channels in the ratio 2:5. What does the first channel receive?","$3,000.00","$5,357.14","$2,142.86","$1,071.43"
+162,4,2026-10-29T14:01:42Z,"An invoice for $8,184.88 is converted to euros at 1.2588 euros per US dollar. How many euros is that?","6,502.13","11,121.61","9,484.64","10,303.13"
+162,5,2026-10-29T14:01:42Z,Region A had 27 orders averaging $50.00; region B had 164 orders averaging $41.00. What is the overall average order value?,42.27,48.73,49.23,45.50
+162,6,2026-10-29T14:01:42Z,"Fixed costs are $10,000.00. Each unit sells for $71.00 with a variable cost of $49.00. How many units must be sold to break even, to the nearest unit?",141 units,455 units,83 units,204 units
+162,7,2026-10-29T14:01:42Z,"A support queue holds 21 billing tickets, 22 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",37.5%,76.8%,60.0%,39.3%
+162,8,2026-10-29T14:01:42Z,Region A had 23 orders averaging $76.00; region B had 95 orders averaging $92.00. What is the overall average order value?,110.40,84.00,88.88,79.12
+162,9,2026-10-29T14:01:42Z,"An investment of $46,000.00 grows at 15% compounded annually. What is its value after 4 years?","$80,454.29","$69,960.25","$73,600.00","$27,600.00"
+162,10,2026-10-29T14:01:42Z,"A $6,570.00 marketing budget is split between two channels in the ratio 4:2. What does the first channel receive?","$2,190.00","$13,140.00","$4,380.00","$1,095.00"
+162,11,2026-10-29T14:01:42Z,"A support queue holds 6 billing tickets, 25 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",13.6%,15.8%,70.5%,56.8%
+162,12,2026-10-29T14:01:42Z,"A support queue holds 14 billing tickets, 11 technical tickets and 4 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",48.3%,86.2%,37.9%,93.3%
+162,13,2026-10-29T14:01:42Z,"Fixed costs are $14,000.00. Each unit sells for $126.00 with a variable cost of $80.00. How many units must be sold to break even, to the nearest unit?",68 units,304 units,111 units,175 units
+162,14,2026-10-29T14:01:42Z,"Fixed costs are $55,500.00. Each unit sells for $33.00 with a variable cost of $5.00. How many units must be sold to break even, to the nearest unit?","1,982 units","1,461 units","11,100 units","1,682 units"
+162,15,2026-10-29T14:01:42Z,"A support queue holds 22 billing tickets, 25 technical tickets and 2 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",81.5%,95.9%,44.9%,51.0%
+162,16,2026-10-29T14:01:42Z,"Fixed costs are $8,500.00. Each unit sells for $66.00 with a variable cost of $51.00. How many units must be sold to break even, to the nearest unit?",567 units,129 units,167 units,73 units
+162,17,2026-10-29T14:01:42Z,"An investment of $43,500.00 grows at 3% compounded annually. What is its value after 4 years?","$47,533.62","$48,720.00","$5,220.00","$48,959.63"
+162,18,2026-10-29T14:01:42Z,"A product line generates $82,500.00 in revenue against $66,975.38 in cost of goods sold. What is the gross margin?",23.2%,81.2%,10.4%,18.8%
+162,19,2026-10-29T14:01:42Z,"An invoice for $3,528.98 is converted to euros at 1.0886 euros per US dollar. How many euros is that?","4,194.55","3,841.65","3,488.75","3,241.76"
+162,20,2026-10-29T14:01:42Z,"An invoice for $2,873.87 is converted to euros at 0.7384 euros per US dollar. How many euros is that?","2,409.45","3,892.02","1,834.68","2,122.07"
+162,21,2026-10-29T14:01:42Z,"An investment of $33,500.00 grows at 15% compounded annually. What is its value after 2 years?","$43,550.00","$44,303.75","$10,050.00","$38,525.00"
+162,22,2026-10-29T14:01:42Z,"A support queue holds 20 billing tickets, 12 technical tickets and 14 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",26.1%,69.6%,76.9%,43.5%
+162,23,2026-10-29T14:01:42Z,"Fixed costs are $56,500.00. Each unit sells for $196.00 with a variable cost of $113.00. How many units must be sold to break even, to the nearest unit?",500 units,183 units,681 units,288 units
+162,24,2026-10-29T14:01:42Z,An invoice for $190.17 is converted to euros at 1.6665 euros per US dollar. How many euros is that?,297.90,335.94,114.11,316.92
+162,25,2026-10-29T14:01:42Z,An item listed at $517.74 is discounted by 15%. What is the sale price?,$502.74,$77.66,$440.08,$595.40
