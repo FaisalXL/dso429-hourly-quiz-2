@@ -3874,3 +3874,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 155,23,2026-10-29T07:01:38Z,"An invoice for $6,413.73 is converted to euros at 1.5730 euros per US dollar. How many euros is that?","9,447.42","10,730.17","4,077.39","10,088.80"
 155,24,2026-10-29T07:01:38Z,"A support queue holds 18 billing tickets, 20 technical tickets and 4 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",42.9%,75.0%,47.6%,90.5%
 155,25,2026-10-29T07:01:38Z,A retailer sells 677 units at $79.06 each. What is total revenue?,"$54,200.62","$54,314.22","$53,523.62","$52,733.02"
+156,1,2026-10-29T08:01:38Z,"Quarterly revenue moved from $1,450.00 to $1,298.00. What is the percentage change?",-10.5%,-11.7%,10.5%,89.5%
+156,2,2026-10-29T08:01:38Z,"A product line generates $15,250.00 in revenue against $12,553.37 in cost of goods sold. What is the gross margin?",82.3%,9.7%,17.7%,21.5%
+156,3,2026-10-29T08:01:38Z,Region A had 185 orders averaging $51.00; region B had 48 orders averaging $31.00. What is the overall average order value?,35.12,59.04,46.88,41.00
+156,4,2026-10-29T08:01:38Z,An item listed at $768.56 is discounted by 15%. What is the sale price?,$883.84,$753.56,$115.28,$653.28
+156,5,2026-10-29T08:01:38Z,"A support queue holds 19 billing tickets, 21 technical tickets and 6 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",41.3%,87.0%,45.7%,70.4%
+156,6,2026-10-29T08:01:38Z,"An invoice for $4,847.58 is converted to euros at 1.4560 euros per US dollar. How many euros is that?","7,542.83","3,329.38","6,573.32","7,058.08"
+156,7,2026-10-29T08:01:38Z,"An invoice for $1,500.80 is converted to euros at 0.8082 euros per US dollar. How many euros is that?","1,062.87","1,212.95","1,363.03","1,856.97"
+156,8,2026-10-29T08:01:38Z,"Fixed costs are $77,500.00. Each unit sells for $42.00 with a variable cost of $22.00. How many units must be sold to break even, to the nearest unit?","3,523 units","1,211 units","3,875 units","1,845 units"
+156,9,2026-10-29T08:01:38Z,"A support queue holds 12 billing tickets, 19 technical tickets and 8 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",30.8%,44.4%,79.5%,48.7%
+156,10,2026-10-29T08:01:38Z,"A monthly headcount series runs 37, 53, 69, 85, 101. If the pattern continues, what is the next value?",101,133,117,149
+156,11,2026-10-29T08:01:38Z,"An investment of $35,000.00 grows at 8% compounded annually. What is its value after 3 years?","$43,400.00","$40,824.00","$44,089.92","$8,400.00"
+156,12,2026-10-29T08:01:38Z,"Quarterly revenue moved from $4,200.00 to $6,358.00. What is the percentage change?",51.4%,33.9%,151.4%,-51.4%
+156,13,2026-10-29T08:01:38Z,"Fixed costs are $77,000.00. Each unit sells for $174.00 with a variable cost of $96.00. How many units must be sold to break even, to the nearest unit?",802 units,987 units,443 units,285 units
+156,14,2026-10-29T08:01:38Z,"An invoice for $8,422.08 is converted to euros at 1.6754 euros per US dollar. How many euros is that?","5,026.91","14,952.56","13,268.14","14,110.35"
+156,15,2026-10-29T08:01:38Z,"Fixed costs are $8,000.00. Each unit sells for $151.00 with a variable cost of $90.00. How many units must be sold to break even, to the nearest unit?",131 units,89 units,53 units,33 units
+156,16,2026-10-29T08:01:38Z,"An invoice for $4,258.56 is converted to euros at 0.7986 euros per US dollar. How many euros is that?","3,826.74","2,975.03","3,400.89","5,332.53"
+156,17,2026-10-29T08:01:38Z,"Fixed costs are $53,500.00. Each unit sells for $179.00 with a variable cost of $102.00. How many units must be sold to break even, to the nearest unit?",525 units,190 units,299 units,695 units
+156,18,2026-10-29T08:01:38Z,"An invoice for $2,202.72 is converted to euros at 0.7153 euros per US dollar. How many euros is that?","1,355.33","1,575.61","1,795.88","3,079.44"
+156,19,2026-10-29T08:01:38Z,"An investment of $48,500.00 grows at 6% compounded annually. What is its value after 4 years?","$57,764.28","$11,640.00","$60,140.00","$61,230.13"
+156,20,2026-10-29T08:01:38Z,An item listed at $258.06 is discounted by 40%. What is the sale price?,$154.84,$361.28,$218.06,$103.22
+156,21,2026-10-29T08:01:38Z,"An investment of $22,500.00 grows at 5% compounded annually. What is its value after 6 years?","$28,716.34","$29,250.00","$6,750.00","$30,152.15"
+156,22,2026-10-29T08:01:38Z,An invoice for $150.64 is converted to euros at 0.9638 euros per US dollar. How many euros is that?,130.12,145.19,156.30,160.25
+156,23,2026-10-29T08:01:38Z,"An invoice for $3,287.04 is converted to euros at 0.9802 euros per US dollar. How many euros is that?","3,550.66","3,353.44","3,221.96","2,893.25"
+156,24,2026-10-29T08:01:38Z,"An investment of $11,000.00 grows at 5% compounded annually. What is its value after 2 years?","$11,550.00","$12,127.50","$1,100.00","$12,100.00"
+156,25,2026-10-29T08:01:38Z,"Fixed costs are $27,500.00. Each unit sells for $98.00 with a variable cost of $53.00. How many units must be sold to break even, to the nearest unit?",611 units,281 units,519 units,182 units
