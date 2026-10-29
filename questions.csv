@@ -3774,3 +3774,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 151,23,2026-10-29T03:01:40Z,"An invoice for $1,903.86 is converted to euros at 0.9456 euros per US dollar. How many euros is that?","1,990.68","1,800.29","1,609.90","2,013.39"
 151,24,2026-10-29T03:01:40Z,Region A had 186 orders averaging $65.00; region B had 112 orders averaging $20.00. What is the overall average order value?,42.50,77.04,48.09,36.91
 151,25,2026-10-29T03:01:40Z,"A product line generates $25,750.00 in revenue against $19,296.37 in cost of goods sold. What is the gross margin?",25.1%,14.3%,74.9%,33.4%
+152,1,2026-10-29T04:01:39Z,"A product line generates $46,250.00 in revenue against $33,212.53 in cost of goods sold. What is the gross margin?",71.8%,28.2%,16.4%,39.3%
+152,2,2026-10-29T04:01:39Z,"A product line generates $89,750.00 in revenue against $60,749.05 in cost of goods sold. What is the gross margin?",67.7%,19.3%,47.7%,32.3%
+152,3,2026-10-29T04:01:39Z,Region A had 48 orders averaging $57.00; region B had 192 orders averaging $78.00. What is the overall average order value?,73.80,92.25,67.50,61.20
+152,4,2026-10-29T04:01:39Z,"A monthly headcount series runs 32, 45, 58, 71, 84. If the pattern continues, what is the next value?",84,97,123,110
+152,5,2026-10-29T04:01:39Z,"An investment of $3,500.00 grows at 11% compounded annually. What is its value after 4 years?","$4,786.71","$1,540.00","$5,040.00","$5,313.25"
+152,6,2026-10-29T04:01:39Z,"A product line generates $74,500.00 in revenue against $37,695.46 in cost of goods sold. What is the gross margin?",50.6%,97.6%,32.8%,49.4%
+152,7,2026-10-29T04:01:39Z,"An investment of $2,000.00 grows at 15% compounded annually. What is its value after 7 years?","$4,100.00","$2,100.00","$5,320.04","$4,626.12"
+152,8,2026-10-29T04:01:39Z,"Quarterly revenue moved from $3,850.00 to $2,367.00. What is the percentage change?",-62.7%,-38.5%,61.5%,38.5%
+152,9,2026-10-29T04:01:39Z,"Quarterly revenue moved from $4,350.00 to $5,528.00. What is the percentage change?",27.1%,-27.1%,21.3%,127.1%
+152,10,2026-10-29T04:01:39Z,"A product line generates $15,250.00 in revenue against $8,420.83 in cost of goods sold. What is the gross margin?",44.8%,28.9%,81.1%,55.2%
+152,11,2026-10-29T04:01:39Z,A contract signed on 31 August 2026 has a 279-day settlement period. On what date does it settle?,7 June 2027,6 June 2027,30 May 2027,6 July 2027
+152,12,2026-10-29T04:01:39Z,"A product line generates $66,000.00 in revenue against $52,219.43 in cost of goods sold. What is the gross margin?",26.4%,20.9%,79.1%,11.7%
+152,13,2026-10-29T04:01:39Z,"Fixed costs are $63,500.00. Each unit sells for $41.00 with a variable cost of $5.00. How many units must be sold to break even, to the nearest unit?","1,549 units","1,764 units","12,700 units","1,380 units"
+152,14,2026-10-29T04:01:39Z,"An investment of $20,500.00 grows at 10% compounded annually. What is its value after 3 years?","$27,285.50","$26,650.00","$24,805.00","$6,150.00"
+152,15,2026-10-29T04:01:39Z,Region A had 134 orders averaging $33.00; region B had 35 orders averaging $59.00. What is the overall average order value?,53.62,38.38,46.00,48.41
+152,16,2026-10-29T04:01:39Z,Region A had 18 orders averaging $40.00; region B had 48 orders averaging $60.00. What is the overall average order value?,45.45,50.00,75.00,54.55
+152,17,2026-10-29T04:01:39Z,"A monthly headcount series runs 3, 9, 15, 21, 27. If the pattern continues, what is the next value?",27,33,39,45
+152,18,2026-10-29T04:01:39Z,"A product line generates $33,750.00 in revenue against $25,568.33 in cost of goods sold. What is the gross margin?",24.2%,13.8%,32.0%,75.8%
+152,19,2026-10-29T04:01:39Z,"An invoice for $7,458.66 is converted to euros at 0.8165 euros per US dollar. How many euros is that?","6,835.86","5,344.13","9,134.92","6,090.00"
+152,20,2026-10-29T04:01:39Z,"A product line generates $14,750.00 in revenue against $8,010.39 in cost of goods sold. What is the gross margin?",84.1%,29.6%,54.3%,45.7%
+152,21,2026-10-29T04:01:39Z,"An investment of $21,000.00 grows at 4% compounded annually. What is its value after 4 years?","$24,360.00","$24,567.03","$3,360.00","$23,622.14"
+152,22,2026-10-29T04:01:39Z,"An invoice for $6,447.10 is converted to euros at 1.6662 euros per US dollar. How many euros is that?","10,742.16","10,097.45","3,869.34","11,386.87"
+152,23,2026-10-29T04:01:39Z,An item listed at $137.73 is discounted by 45%. What is the sale price?,$75.75,$199.71,$61.98,$92.73
+152,24,2026-10-29T04:01:39Z,"Fixed costs are $51,500.00. Each unit sells for $153.00 with a variable cost of $92.00. How many units must be sold to break even, to the nearest unit?",210 units,844 units,337 units,560 units
+152,25,2026-10-29T04:01:39Z,"Fixed costs are $59,000.00. Each unit sells for $40.00 with a variable cost of $10.00. How many units must be sold to break even, to the nearest unit?","1,475 units","5,900 units","1,967 units","1,180 units"
