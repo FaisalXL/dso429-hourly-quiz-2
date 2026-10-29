@@ -3824,3 +3824,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 153,23,2026-10-29T05:01:42Z,"An investment of $46,000.00 grows at 11% compounded annually. What is its value after 8 years?","$95,503.37","$40,480.00","$106,008.74","$86,480.00"
 153,24,2026-10-29T05:01:42Z,"An invoice for $7,755.47 is converted to euros at 0.6616 euros per US dollar. How many euros is that?","4,355.47","5,131.02","5,906.57","11,722.29"
 153,25,2026-10-29T05:01:42Z,A retailer sells 355 units at $51.61 each. What is total revenue?,"$18,676.55","$18,321.55","$17,805.45","$18,837.65"
+154,1,2026-10-29T06:01:45Z,Region A had 137 orders averaging $26.00; region B had 179 orders averaging $55.00. What is the overall average order value?,40.50,38.57,74.90,42.43
+154,2,2026-10-29T06:01:45Z,"Quarterly revenue moved from $1,650.00 to $1,924.00. What is the percentage change?",16.6%,116.6%,14.2%,-16.6%
+154,3,2026-10-29T06:01:45Z,"Fixed costs are $12,000.00. Each unit sells for $179.00 with a variable cost of $65.00. How many units must be sold to break even, to the nearest unit?",185 units,49 units,105 units,67 units
+154,4,2026-10-29T06:01:45Z,Quarterly revenue moved from $350.00 to $463.00. What is the percentage change?,24.4%,32.3%,132.3%,-32.3%
+154,5,2026-10-29T06:01:45Z,Region A had 169 orders averaging $44.00; region B had 144 orders averaging $65.00. What is the overall average order value?,54.50,99.38,55.34,53.66
+154,6,2026-10-29T06:01:45Z,An invoice for $566.64 is converted to euros at 0.9327 euros per US dollar. How many euros is that?,471.84,585.17,607.53,528.51
+154,7,2026-10-29T06:01:45Z,"A $1,440.00 marketing budget is split between two channels in the ratio 2:4. What does the first channel receive?",$720.00,$960.00,$240.00,$480.00
+154,8,2026-10-29T06:01:45Z,Region A had 52 orders averaging $64.00; region B had 107 orders averaging $65.00. What is the overall average order value?,64.33,96.10,64.50,64.67
+154,9,2026-10-29T06:01:45Z,Region A had 19 orders averaging $30.00; region B had 144 orders averaging $41.00. What is the overall average order value?,35.50,39.72,44.96,31.28
+154,10,2026-10-29T06:01:45Z,"A product line generates $74,000.00 in revenue against $60,692.78 in cost of goods sold. What is the gross margin?",9.9%,18.0%,21.9%,82.0%
+154,11,2026-10-29T06:01:45Z,"A monthly headcount series runs 39, 46, 53, 60, 67. If the pattern continues, what is the next value?",74,67,88,81
+154,12,2026-10-29T06:01:45Z,Region A had 142 orders averaging $67.00; region B had 38 orders averaging $91.00. What is the overall average order value?,91.35,79.00,72.07,85.93
+154,13,2026-10-29T06:01:45Z,"An investment of $23,500.00 grows at 4% compounded annually. What is its value after 5 years?","$27,491.68","$4,700.00","$28,591.34","$28,200.00"
+154,14,2026-10-29T06:01:45Z,"A product line generates $26,500.00 in revenue against $19,219.55 in cost of goods sold. What is the gross margin?",15.9%,37.9%,27.5%,72.5%
+154,15,2026-10-29T06:01:45Z,A contract signed on 31 October 2026 has a 151-day settlement period. On what date does it settle?,31 March 2027,30 April 2027,1 April 2027,24 March 2027
+154,16,2026-10-29T06:01:45Z,Region A had 86 orders averaging $83.00; region B had 182 orders averaging $35.00. What is the overall average order value?,50.40,74.22,67.60,59.00
+154,17,2026-10-29T06:01:45Z,A contract signed on 18 August 2026 has a 278-day settlement period. On what date does it settle?,23 May 2027,16 May 2027,22 June 2027,24 May 2027
+154,18,2026-10-29T06:01:45Z,"A monthly headcount series runs 37, 42, 47, 52, 57. If the pattern continues, what is the next value?",62,72,57,67
+154,19,2026-10-29T06:01:45Z,"A support queue holds 14 billing tickets, 15 technical tickets and 12 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",36.6%,51.9%,34.1%,70.7%
+154,20,2026-10-29T06:01:45Z,Region A had 118 orders averaging $27.00; region B had 157 orders averaging $68.00. What is the overall average order value?,50.41,47.50,88.29,44.59
+154,21,2026-10-29T06:01:45Z,A contract signed on 17 June 2026 has a 132-day settlement period. On what date does it settle?,27 October 2026,20 October 2026,26 November 2026,28 October 2026
+154,22,2026-10-29T06:01:45Z,"A product line generates $12,000.00 in revenue against $5,680.95 in cost of goods sold. What is the gross margin?",52.7%,47.3%,35.7%,111.2%
+154,23,2026-10-29T06:01:45Z,"A support queue holds 19 billing tickets, 13 technical tickets and 4 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",36.1%,111.8%,88.9%,52.8%
+154,24,2026-10-29T06:01:45Z,"Fixed costs are $52,000.00. Each unit sells for $37.00 with a variable cost of $13.00. How many units must be sold to break even, to the nearest unit?","2,167 units","4,000 units","1,405 units","1,040 units"
+154,25,2026-10-29T06:01:45Z,"A support queue holds 15 billing tickets, 17 technical tickets and 10 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",76.2%,35.7%,55.6%,40.5%
