@@ -3799,3 +3799,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 152,23,2026-10-29T04:01:39Z,An item listed at $137.73 is discounted by 45%. What is the sale price?,$75.75,$199.71,$61.98,$92.73
 152,24,2026-10-29T04:01:39Z,"Fixed costs are $51,500.00. Each unit sells for $153.00 with a variable cost of $92.00. How many units must be sold to break even, to the nearest unit?",210 units,844 units,337 units,560 units
 152,25,2026-10-29T04:01:39Z,"Fixed costs are $59,000.00. Each unit sells for $40.00 with a variable cost of $10.00. How many units must be sold to break even, to the nearest unit?","1,475 units","5,900 units","1,967 units","1,180 units"
+153,1,2026-10-29T05:01:42Z,"Quarterly revenue moved from $2,800.00 to $2,482.00. What is the percentage change?",-11.4%,88.6%,11.4%,-12.8%
+153,2,2026-10-29T05:01:42Z,"An investment of $48,500.00 grows at 4% compounded annually. What is its value after 4 years?","$7,760.00","$54,555.90","$56,260.00","$56,738.14"
+153,3,2026-10-29T05:01:42Z,"An investment of $14,500.00 grows at 15% compounded annually. What is its value after 3 years?","$21,025.00","$6,525.00","$22,052.69","$19,176.25"
+153,4,2026-10-29T05:01:42Z,"A product line generates $82,750.00 in revenue against $62,529.73 in cost of goods sold. What is the gross margin?",13.9%,32.3%,24.4%,75.6%
+153,5,2026-10-29T05:01:42Z,Region A had 91 orders averaging $86.00; region B had 179 orders averaging $89.00. What is the overall average order value?,132.72,87.01,87.50,87.99
+153,6,2026-10-29T05:01:42Z,An item listed at $176.55 is discounted by 35%. What is the sale price?,$114.76,$141.55,$238.34,$61.79
+153,7,2026-10-29T05:01:42Z,"An investment of $30,500.00 grows at 12% compounded annually. What is its value after 8 years?","$59,780.00","$67,425.78","$29,280.00","$75,516.88"
+153,8,2026-10-29T05:01:42Z,"An invoice for $6,075.85 is converted to euros at 0.8939 euros per US dollar. How many euros is that?","6,038.79","5,431.20","6,797.01","4,823.62"
+153,9,2026-10-29T05:01:42Z,"An investment of $9,500.00 grows at 14% compounded annually. What is its value after 6 years?","$18,291.44","$7,980.00","$17,480.00","$20,852.24"
+153,10,2026-10-29T05:01:42Z,A contract signed on 26 October 2026 has a 217-day settlement period. On what date does it settle?,1 June 2027,24 May 2027,30 June 2027,31 May 2027
+153,11,2026-10-29T05:01:42Z,"A product line generates $61,000.00 in revenue against $40,599.57 in cost of goods sold. What is the gross margin?",50.2%,66.6%,20.1%,33.4%
+153,12,2026-10-29T05:01:42Z,A retailer sells 528 units at $70.88 each. What is total revenue?,"$37,952.64","$37,424.64","$36,715.84","$38,133.44"
+153,13,2026-10-29T05:01:42Z,"Fixed costs are $62,500.00. Each unit sells for $168.00 with a variable cost of $72.00. How many units must be sold to break even, to the nearest unit?",651 units,260 units,868 units,372 units
+153,14,2026-10-29T05:01:42Z,"Quarterly revenue moved from $3,150.00 to $4,848.00. What is the percentage change?",53.9%,153.9%,-53.9%,35.0%
+153,15,2026-10-29T05:01:42Z,A contract signed on 4 November 2026 has a 24-day settlement period. On what date does it settle?,29 November 2026,28 November 2026,28 December 2026,21 November 2026
+153,16,2026-10-29T05:01:42Z,Region A had 46 orders averaging $22.00; region B had 186 orders averaging $67.00. What is the overall average order value?,44.50,30.92,58.08,72.44
+153,17,2026-10-29T05:01:42Z,"A support queue holds 12 billing tickets, 7 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",23.3%,66.7%,63.3%,40.0%
+153,18,2026-10-29T05:01:42Z,"An investment of $49,000.00 grows at 4% compounded annually. What is its value after 6 years?","$59,615.99","$62,000.63","$11,760.00","$60,760.00"
+153,19,2026-10-29T05:01:42Z,"An invoice for $3,453.97 is converted to euros at 0.6932 euros per US dollar. How many euros is that?","2,394.29","2,048.90","2,739.69","4,982.65"
+153,20,2026-10-29T05:01:42Z,Region A had 189 orders averaging $89.00; region B had 143 orders averaging $74.00. What is the overall average order value?,82.54,144.99,80.46,81.50
+153,21,2026-10-29T05:01:42Z,"A product line generates $41,250.00 in revenue against $23,267.99 in cost of goods sold. What is the gross margin?",43.6%,27.9%,77.3%,56.4%
+153,22,2026-10-29T05:01:42Z,"A support queue holds 6 billing tickets, 3 technical tickets and 6 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",40.0%,60.0%,20.0%,66.7%
+153,23,2026-10-29T05:01:42Z,"An investment of $46,000.00 grows at 11% compounded annually. What is its value after 8 years?","$95,503.37","$40,480.00","$106,008.74","$86,480.00"
+153,24,2026-10-29T05:01:42Z,"An invoice for $7,755.47 is converted to euros at 0.6616 euros per US dollar. How many euros is that?","4,355.47","5,131.02","5,906.57","11,722.29"
+153,25,2026-10-29T05:01:42Z,A retailer sells 355 units at $51.61 each. What is total revenue?,"$18,676.55","$18,321.55","$17,805.45","$18,837.65"
