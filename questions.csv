@@ -3899,3 +3899,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 156,23,2026-10-29T08:01:38Z,"An invoice for $3,287.04 is converted to euros at 0.9802 euros per US dollar. How many euros is that?","3,550.66","3,353.44","3,221.96","2,893.25"
 156,24,2026-10-29T08:01:38Z,"An investment of $11,000.00 grows at 5% compounded annually. What is its value after 2 years?","$11,550.00","$12,127.50","$1,100.00","$12,100.00"
 156,25,2026-10-29T08:01:38Z,"Fixed costs are $27,500.00. Each unit sells for $98.00 with a variable cost of $53.00. How many units must be sold to break even, to the nearest unit?",611 units,281 units,519 units,182 units
+157,1,2026-10-29T09:01:39Z,"An invoice for $2,981.10 is converted to euros at 0.8103 euros per US dollar. How many euros is that?","2,415.59","2,713.70","2,117.48","3,679.01"
+157,2,2026-10-29T09:01:39Z,"An invoice for $7,022.52 is converted to euros at 1.6064 euros per US dollar. How many euros is that?","10,578.72","11,983.23","11,280.98","4,371.59"
+157,3,2026-10-29T09:01:39Z,A contract signed on 5 June 2026 has a 339-day settlement period. On what date does it settle?,10 May 2027,9 June 2027,11 May 2027,3 May 2027
+157,4,2026-10-29T09:01:39Z,"An investment of $29,500.00 grows at 12% compounded annually. What is its value after 2 years?","$33,040.00","$36,580.00","$37,004.80","$7,080.00"
+157,5,2026-10-29T09:01:39Z,"Fixed costs are $26,500.00. Each unit sells for $159.00 with a variable cost of $53.00. How many units must be sold to break even, to the nearest unit?",167 units,125 units,500 units,250 units
+157,6,2026-10-29T09:01:39Z,"An investment of $17,000.00 grows at 10% compounded annually. What is its value after 8 years?","$30,600.00","$13,600.00","$36,441.01","$33,128.19"
+157,7,2026-10-29T09:01:39Z,"An investment of $24,500.00 grows at 12% compounded annually. What is its value after 5 years?","$14,700.00","$38,551.22","$39,200.00","$43,177.37"
+157,8,2026-10-29T09:01:39Z,"Quarterly revenue moved from $1,450.00 to $1,301.00. What is the percentage change?",-11.5%,-10.3%,10.3%,89.7%
+157,9,2026-10-29T09:01:39Z,"An invoice for $3,304.59 is converted to euros at 1.6076 euros per US dollar. How many euros is that?","4,982.00","5,312.46","5,642.92","2,055.60"
+157,10,2026-10-29T09:01:39Z,"Quarterly revenue moved from $3,100.00 to $4,489.00. What is the percentage change?",144.8%,-44.8%,44.8%,30.9%
+157,11,2026-10-29T09:01:39Z,A retailer sells 347 units at $29.45 each. What is total revenue?,"$10,513.65","$10,219.15","$10,566.15","$9,924.65"
+157,12,2026-10-29T09:01:39Z,"An investment of $29,500.00 grows at 12% compounded annually. What is its value after 4 years?","$41,445.38","$14,160.00","$46,418.82","$43,660.00"
+157,13,2026-10-29T09:01:39Z,"Fixed costs are $26,000.00. Each unit sells for $102.00 with a variable cost of $33.00. How many units must be sold to break even, to the nearest unit?",193 units,377 units,788 units,255 units
+157,14,2026-10-29T09:01:39Z,"An investment of $6,500.00 grows at 12% compounded annually. What is its value after 4 years?","$9,620.00","$10,227.88","$9,132.03","$3,120.00"
+157,15,2026-10-29T09:01:39Z,"A support queue holds 4 billing tickets, 25 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",69.0%,59.5%,10.5%,9.5%
+157,16,2026-10-29T09:01:39Z,Region A had 157 orders averaging $57.00; region B had 40 orders averaging $88.00. What is the overall average order value?,79.42,63.29,81.71,72.50
+157,17,2026-10-29T09:01:39Z,"Fixed costs are $6,500.00. Each unit sells for $32.00 with a variable cost of $10.00. How many units must be sold to break even, to the nearest unit?",203 units,295 units,650 units,155 units
+157,18,2026-10-29T09:01:39Z,An item listed at $794.97 is discounted by 15%. What is the sale price?,$675.72,$779.97,$119.25,$914.22
+157,19,2026-10-29T09:01:39Z,"An invoice for $1,293.89 is converted to euros at 0.9167 euros per US dollar. How many euros is that?","1,186.11","1,056.72","1,411.47","1,315.50"
+157,20,2026-10-29T09:01:39Z,"An invoice for $4,157.19 is converted to euros at 1.5726 euros per US dollar. How many euros is that?","6,953.32","6,537.60","6,121.88","2,643.51"
+157,21,2026-10-29T09:01:39Z,"An invoice for $2,435.71 is converted to euros at 1.2101 euros per US dollar. How many euros is that?","3,191.02","2,012.82","2,947.45","2,703.88"
+157,22,2026-10-29T09:01:39Z,A contract signed on 12 February 2026 has a 238-day settlement period. On what date does it settle?,7 November 2026,8 October 2026,9 October 2026,1 October 2026
+157,23,2026-10-29T09:01:39Z,"Quarterly revenue moved from $2,500.00 to $2,297.00. What is the percentage change?",91.9%,8.1%,-8.1%,-8.8%
+157,24,2026-10-29T09:01:39Z,An item listed at $213.14 is discounted by 5%. What is the sale price?,$208.14,$10.66,$202.48,$223.80
+157,25,2026-10-29T09:01:39Z,"An investment of $40,000.00 grows at 3% compounded annually. What is its value after 7 years?","$47,762.09","$8,400.00","$49,194.95","$48,400.00"
