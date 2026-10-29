@@ -4149,3 +4149,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 166,23,2026-10-29T18:01:40Z,A contract signed on 13 September 2026 has a 137-day settlement period. On what date does it settle?,28 January 2027,29 January 2027,21 January 2027,27 February 2027
 166,24,2026-10-29T18:01:40Z,Region A had 196 orders averaging $41.00; region B had 192 orders averaging $81.00. What is the overall average order value?,61.21,120.35,61.00,60.79
 166,25,2026-10-29T18:01:40Z,"An investment of $28,500.00 grows at 5% compounded annually. What is its value after 6 years?","$8,550.00","$36,374.02","$37,050.00","$38,192.73"
+167,1,2026-10-29T19:01:40Z,"A support queue holds 24 billing tickets, 9 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",19.6%,109.1%,71.7%,52.2%
+167,2,2026-10-29T19:01:40Z,"Quarterly revenue moved from $4,850.00 to $3,132.00. What is the percentage change?",64.6%,-35.4%,-54.9%,35.4%
+167,3,2026-10-29T19:01:40Z,"An investment of $7,000.00 grows at 5% compounded annually. What is its value after 6 years?","$9,380.67","$2,100.00","$8,933.97","$9,100.00"
+167,4,2026-10-29T19:01:40Z,"A support queue holds 4 billing tickets, 20 technical tickets and 3 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",17.4%,74.1%,14.8%,88.9%
+167,5,2026-10-29T19:01:40Z,Quarterly revenue moved from $600.00 to $511.00. What is the percentage change?,85.2%,-14.8%,-17.4%,14.8%
+167,6,2026-10-29T19:01:40Z,"Quarterly revenue moved from $1,900.00 to $3,013.00. What is the percentage change?",-58.6%,58.6%,158.6%,36.9%
+167,7,2026-10-29T19:01:40Z,"A product line generates $20,500.00 in revenue against $17,924.53 in cost of goods sold. What is the gross margin?",12.6%,14.4%,6.7%,87.4%
+167,8,2026-10-29T19:01:40Z,"Quarterly revenue moved from $1,150.00 to $1,397.00. What is the percentage change?",121.5%,17.7%,21.5%,-21.5%
+167,9,2026-10-29T19:01:40Z,"Fixed costs are $7,000.00. Each unit sells for $83.00 with a variable cost of $15.00. How many units must be sold to break even, to the nearest unit?",467 units,103 units,71 units,84 units
+167,10,2026-10-29T19:01:40Z,"An investment of $30,000.00 grows at 14% compounded annually. What is its value after 8 years?","$33,600.00","$75,068.06","$63,600.00","$85,577.59"
+167,11,2026-10-29T19:01:40Z,"An investment of $9,500.00 grows at 10% compounded annually. What is its value after 2 years?","$11,495.00","$11,400.00","$10,450.00","$1,900.00"
+167,12,2026-10-29T19:01:40Z,Region A had 60 orders averaging $63.00; region B had 165 orders averaging $80.00. What is the overall average order value?,75.47,102.91,67.53,71.50
+167,13,2026-10-29T19:01:40Z,"A monthly headcount series runs 26, 31, 36, 41, 46. If the pattern continues, what is the next value?",51,46,56,61
+167,14,2026-10-29T19:01:40Z,Region A had 189 orders averaging $91.00; region B had 150 orders averaging $25.00. What is the overall average order value?,61.80,58.00,54.20,110.84
+167,15,2026-10-29T19:01:40Z,A contract signed on 7 February 2026 has a 344-day settlement period. On what date does it settle?,18 January 2027,10 January 2027,17 January 2027,16 February 2027
+167,16,2026-10-29T19:01:40Z,"An invoice for $6,293.78 is converted to euros at 1.5804 euros per US dollar. How many euros is that?","9,946.69","10,576.07","3,982.40","9,317.31"
+167,17,2026-10-29T19:01:40Z,"A support queue holds 11 billing tickets, 14 technical tickets and 3 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",64.7%,50.0%,89.3%,39.3%
+167,18,2026-10-29T19:01:40Z,"Quarterly revenue moved from $2,450.00 to $1,681.00. What is the percentage change?",31.4%,-31.4%,68.6%,-45.7%
+167,19,2026-10-29T19:01:40Z,A retailer sells 743 units at $39.11 each. What is total revenue?,"$29,801.73","$29,058.73","$29,449.83","$28,667.63"
+167,20,2026-10-29T19:01:40Z,A contract signed on 18 March 2026 has a 81-day settlement period. On what date does it settle?,7 June 2026,7 July 2026,8 June 2026,31 May 2026
+167,21,2026-10-29T19:01:40Z,"A monthly headcount series runs 10, 19, 28, 37, 46. If the pattern continues, what is the next value?",73,55,64,46
+167,22,2026-10-29T19:01:40Z,"An investment of $36,500.00 grows at 15% compounded annually. What is its value after 5 years?","$27,375.00","$63,875.00","$63,838.73","$73,414.54"
+167,23,2026-10-29T19:01:40Z,"Fixed costs are $29,000.00. Each unit sells for $82.00 with a variable cost of $52.00. How many units must be sold to break even, to the nearest unit?",558 units,967 units,354 units,216 units
+167,24,2026-10-29T19:01:40Z,"An investment of $17,500.00 grows at 12% compounded annually. What is its value after 7 years?","$14,700.00","$34,541.90","$38,686.92","$32,200.00"
+167,25,2026-10-29T19:01:40Z,"Fixed costs are $7,000.00. Each unit sells for $115.00 with a variable cost of $63.00. How many units must be sold to break even, to the nearest unit?",61 units,111 units,135 units,39 units
